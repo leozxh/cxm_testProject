@@ -69,7 +69,7 @@ class CashierhomepageView(Cashierhomepage):
         logging.info('===========Add Remark===============')
         self.driver.find_element(*self.layoutRremark).click()
         logging.info('===========Enter Remark===============')
-        self.driver.find_element(*self.inputValue).send_keys("自动化测试备注长度测试20个字是否符合!")
+        self.driver.find_element(*self.inputValue).send_keys("自动化测试备注长度测试20个字长度测试。")
         logging.info('===========Saved===============')
         self.driver.find_element(*self.tvSure).click()
         logging.info('===========Add Additional fee===============')
