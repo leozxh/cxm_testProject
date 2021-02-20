@@ -1,0 +1,1225 @@
+2021-02-09 21:33:08,875 myunit.py[line:9] INFO ======setUp=========
+2021-02-09 21:33:11,540 test_repayment.py[line:9] INFO ==========test_repayment_linshiguhang========
+2021-02-09 21:33:11,541 repaymentView.py[line:64] INFO ============Click chaiBtn============
+2021-02-09 21:33:16,909 common_fun.py[line:34] INFO click cancelBtn
+2021-02-09 21:33:20,064 repaymentView.py[line:66] INFO ============Choose batch ==============
+2021-02-09 21:33:20,504 repaymentView.py[line:68] INFO ============Choose Product ==============
+2021-02-09 21:33:21,440 repaymentView.py[line:70] INFO ============Choose quantity==============
+2021-02-09 21:33:25,981 repaymentView.py[line:72] INFO ============Input quantity==============
+2021-02-09 21:33:26,396 repaymentView.py[line:74] INFO ===========Determine===============
+2021-02-09 21:33:27,171 repaymentView.py[line:76] INFO ===========Show user===============
+2021-02-09 21:33:28,270 repaymentView.py[line:78] INFO ===========Select user===============
+2021-02-09 21:33:29,977 repaymentView.py[line:80] INFO ===========Sales Order===============
+2021-02-09 21:33:30,578 repaymentView.py[line:82] INFO ============Input quantity==============
+2021-02-09 21:33:32,547 repaymentView.py[line:84] INFO ============Cash register==============
+2021-02-09 21:33:33,398 myunit.py[line:14] INFO ======tearDown=====
+2021-02-09 21:37:36,965 myunit.py[line:9] INFO ======setUp=========
+2021-02-09 21:37:39,718 test_repayment.py[line:9] INFO ==========test_repayment_linshiguhang========
+2021-02-09 21:37:39,718 repaymentView.py[line:42] INFO ============Click chaiBtn============
+2021-02-09 21:37:45,120 common_fun.py[line:34] INFO click cancelBtn
+2021-02-09 21:37:48,284 repaymentView.py[line:44] INFO ============Choose batch ==============
+2021-02-09 21:37:48,729 repaymentView.py[line:46] INFO ============Choose Product ==============
+2021-02-09 21:37:49,762 repaymentView.py[line:48] INFO ============Choose quantity==============
+2021-02-09 21:37:54,555 repaymentView.py[line:50] INFO ============Input quantity==============
+2021-02-09 21:37:55,076 repaymentView.py[line:52] INFO ===========Determine===============
+2021-02-09 21:37:55,856 repaymentView.py[line:54] INFO ===========Show user===============
+2021-02-09 21:37:57,020 repaymentView.py[line:56] INFO ===========Select user===============
+2021-02-09 21:37:58,736 repaymentView.py[line:58] INFO ===========Sales Order===============
+2021-02-09 21:37:59,328 repaymentView.py[line:60] INFO ===========Whole bill===============
+2021-02-09 21:38:01,070 repaymentView.py[line:68] INFO ============Choose Product ==============
+2021-02-09 21:38:02,391 repaymentView.py[line:70] INFO ============Choose quantity==============
+2021-02-09 21:38:06,261 repaymentView.py[line:72] INFO ============Input quantity==============
+2021-02-09 21:38:06,839 repaymentView.py[line:74] INFO ===========Determine===============
+2021-02-09 21:38:07,656 repaymentView.py[line:76] INFO ===========Show user===============
+2021-02-09 21:38:08,731 repaymentView.py[line:78] INFO ===========Select user===============
+2021-02-09 21:38:10,202 repaymentView.py[line:80] INFO ===========Sales Order===============
+2021-02-09 21:38:10,804 repaymentView.py[line:82] INFO ============Input quantity==============
+2021-02-09 21:38:12,781 repaymentView.py[line:84] INFO ============Cash register==============
+2021-02-09 21:38:13,616 myunit.py[line:14] INFO ======tearDown=====
+2021-02-09 21:38:34,261 myunit.py[line:9] INFO ======setUp=========
+2021-02-09 21:38:36,850 test_repayment.py[line:9] INFO ==========test_repayment_linshiguhang========
+2021-02-09 21:38:36,850 repaymentView.py[line:42] INFO ============Click chaiBtn============
+2021-02-09 21:38:42,098 common_fun.py[line:34] INFO click cancelBtn
+2021-02-09 21:38:45,300 repaymentView.py[line:44] INFO ============Choose batch ==============
+2021-02-09 21:38:45,866 repaymentView.py[line:46] INFO ============Choose Product ==============
+2021-02-09 21:38:46,838 repaymentView.py[line:48] INFO ============Choose quantity==============
+2021-02-09 21:38:51,449 repaymentView.py[line:50] INFO ============Input quantity==============
+2021-02-09 21:38:51,938 repaymentView.py[line:52] INFO ===========Determine===============
+2021-02-09 21:38:52,756 repaymentView.py[line:54] INFO ===========Show user===============
+2021-02-09 21:38:53,955 repaymentView.py[line:56] INFO ===========Select user===============
+2021-02-09 21:38:55,551 repaymentView.py[line:58] INFO ===========Sales Order===============
+2021-02-09 21:38:56,121 repaymentView.py[line:60] INFO ===========Whole bill===============
+2021-02-09 21:38:57,855 repaymentView.py[line:68] INFO ============Choose Product ==============
+2021-02-09 21:38:59,255 repaymentView.py[line:70] INFO ============Choose quantity==============
+2021-02-09 21:39:03,248 repaymentView.py[line:72] INFO ============Input quantity==============
+2021-02-09 21:39:03,893 repaymentView.py[line:74] INFO ===========Determine===============
+2021-02-09 21:39:04,672 repaymentView.py[line:76] INFO ===========Show user===============
+2021-02-09 21:39:05,768 repaymentView.py[line:78] INFO ===========Select user===============
+2021-02-09 21:39:07,461 repaymentView.py[line:80] INFO ===========Sales Order===============
+2021-02-09 21:39:08,110 repaymentView.py[line:82] INFO ============Input quantity==============
+2021-02-09 21:39:09,984 repaymentView.py[line:84] INFO ============Cash register==============
+2021-02-09 21:39:10,731 repaymentView.py[line:90] INFO ============Jump to Buyer Center============
+2021-02-09 21:39:12,087 repaymentView.py[line:92] INFO ============Click Order management============
+2021-02-09 21:39:13,970 repaymentView.py[line:94] INFO ============Choose Order============
+2021-02-09 21:39:16,443 repaymentView.py[line:96] INFO ============Click Repay============
+2021-02-09 21:39:17,626 repaymentView.py[line:98] INFO ============Click btnrepayOrder============
+2021-02-09 21:39:19,196 repaymentView.py[line:100] INFO ============Repay finished!============
+2021-02-09 21:39:19,197 myunit.py[line:14] INFO ======tearDown=====
+2021-02-17 23:44:48,173 myunit.py[line:9] INFO ======setUp=========
+2021-02-17 23:45:26,661 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-17 23:45:26,697 loginView.py[line:19] INFO ============login_action==============
+2021-02-17 23:45:26,698 loginView.py[line:20] INFO username is:19000032420
+2021-02-17 23:45:37,070 myunit.py[line:14] INFO ======tearDown=====
+2021-02-17 23:46:49,079 myunit.py[line:9] INFO ======setUp=========
+2021-02-17 23:47:25,013 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-17 23:47:25,021 loginView.py[line:19] INFO ============login_action==============
+2021-02-17 23:47:25,022 loginView.py[line:20] INFO username is:19000032420
+2021-02-17 23:47:35,408 myunit.py[line:14] INFO ======tearDown=====
+2021-02-17 23:54:48,116 myunit.py[line:9] INFO ======setUp=========
+2021-02-17 23:54:59,137 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-17 23:54:59,140 loginView.py[line:19] INFO ============login_action==============
+2021-02-17 23:54:59,141 loginView.py[line:20] INFO username is:19000032420
+2021-02-17 23:55:09,626 myunit.py[line:14] INFO ======tearDown=====
+2021-02-18 00:15:22,862 myunit.py[line:9] INFO ======setUp=========
+2021-02-18 00:15:27,708 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-18 00:15:27,712 loginView.py[line:19] INFO ============login_action==============
+2021-02-18 00:15:27,712 loginView.py[line:20] INFO username is:19000032420
+2021-02-18 00:15:36,916 loginView.py[line:25] INFO password is:123456
+2021-02-18 00:15:42,143 loginView.py[line:28] INFO click loginBtn
+2021-02-18 00:15:42,904 loginView.py[line:31] INFO click chaiBtn
+2021-02-18 00:15:48,716 common_fun.py[line:34] INFO click cancelBtn
+2021-02-18 00:15:51,890 common_fun.py[line:83] INFO get login finished screenshot
+2021-02-18 00:15:52,702 loginView.py[line:34] INFO login finished
+2021-02-18 00:15:52,702 loginView.py[line:38] INFO =========logout_action==========
+2021-02-18 00:15:52,702 loginView.py[line:39] INFO go to personal center
+2021-02-18 00:15:53,618 loginView.py[line:42] INFO click logoutBtn
+2021-02-18 00:15:54,664 loginView.py[line:44] INFO click confirmBtn
+2021-02-18 00:15:56,386 common_fun.py[line:83] INFO get logout finished screenshot
+2021-02-18 00:15:59,276 loginView.py[line:47] INFO logout finished
+2021-02-18 00:15:59,277 myunit.py[line:14] INFO ======tearDown=====
+2021-02-18 00:21:04,220 myunit.py[line:9] INFO ======setUp=========
+2021-02-18 00:21:07,171 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-18 00:21:07,171 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-18 00:21:12,610 common_fun.py[line:34] INFO click cancelBtn
+2021-02-18 00:21:15,756 cashierhomepageView.py[line:68] INFO ============Click on the previous order============
+2021-02-18 00:21:26,317 myunit.py[line:14] INFO ======tearDown=====
+2021-02-18 00:22:09,452 myunit.py[line:9] INFO ======setUp=========
+2021-02-18 00:22:57,770 myunit.py[line:9] INFO ======setUp=========
+2021-02-18 00:23:00,638 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-18 00:23:00,638 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-18 00:23:06,257 common_fun.py[line:34] INFO click cancelBtn
+2021-02-18 00:23:09,399 cashierhomepageView.py[line:68] INFO ============Jump Code List Center============
+2021-02-18 00:23:09,610 cashierhomepageView.py[line:70] INFO ============Back to Homepage============
+2021-02-18 00:23:12,655 cashierhomepageView.py[line:72] INFO ============Add Customer============
+2021-02-18 00:23:13,690 cashierhomepageView.py[line:74] INFO ============Enter Customer Name============
+2021-02-18 00:23:19,728 cashierhomepageView.py[line:76] INFO ============Enter Customer Phone============
+2021-02-18 00:23:25,205 cashierhomepageView.py[line:78] INFO ============Enter Customer CarNO============
+2021-02-18 00:23:30,468 cashierhomepageView.py[line:80] INFO ============Saved============
+2021-02-18 00:23:34,161 cashierhomepageView.py[line:82] INFO ============New customers============
+2021-02-18 00:23:35,935 cashierhomepageView.py[line:86] INFO ============Choose batch ==============
+2021-02-18 00:23:36,962 cashierhomepageView.py[line:88] INFO ============Choose Custom packaging Product ==============
+2021-02-18 00:23:38,079 cashierhomepageView.py[line:90] INFO ============Choose quantity==============
+2021-02-18 00:23:42,787 cashierhomepageView.py[line:92] INFO ============Input quantity==============
+2021-02-18 00:23:43,398 cashierhomepageView.py[line:94] INFO ===========Determine===============
+2021-02-18 00:23:44,390 cashierhomepageView.py[line:96] INFO ===========Turn on the weighbridge===============
+2021-02-18 00:23:45,378 cashierhomepageView.py[line:98] INFO ============Choose Bulk packaging Product ==============
+2021-02-18 00:23:45,964 myunit.py[line:14] INFO ======tearDown=====
+2021-02-18 00:27:26,552 myunit.py[line:9] INFO ======setUp=========
+2021-02-18 00:27:29,482 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-18 00:27:29,483 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-18 00:27:35,308 common_fun.py[line:34] INFO click cancelBtn
+2021-02-18 00:27:38,467 cashierhomepageView.py[line:68] INFO ============Jump Code List Center============
+2021-02-18 00:27:38,788 cashierhomepageView.py[line:70] INFO ============Back to Homepage============
+2021-02-18 00:27:41,830 cashierhomepageView.py[line:72] INFO ============Add Customer============
+2021-02-18 00:27:42,973 cashierhomepageView.py[line:74] INFO ============Enter Customer Name============
+2021-02-18 00:27:48,558 cashierhomepageView.py[line:77] INFO ============Enter Customer Phone============
+2021-02-18 00:27:53,977 cashierhomepageView.py[line:79] INFO ============Enter Customer CarNO============
+2021-02-18 00:27:59,349 cashierhomepageView.py[line:81] INFO ============Saved============
+2021-02-18 00:28:03,047 cashierhomepageView.py[line:83] INFO ============New customers============
+2021-02-18 00:28:04,896 cashierhomepageView.py[line:87] INFO ============Choose batch ==============
+2021-02-18 00:28:05,863 cashierhomepageView.py[line:89] INFO ============Choose Custom packaging Product ==============
+2021-02-18 00:28:06,892 cashierhomepageView.py[line:91] INFO ============Choose quantity==============
+2021-02-18 00:28:11,731 cashierhomepageView.py[line:93] INFO ============Input quantity==============
+2021-02-18 00:28:12,309 cashierhomepageView.py[line:95] INFO ===========Determine===============
+2021-02-18 00:28:13,140 cashierhomepageView.py[line:97] INFO ===========Turn on the weighbridge===============
+2021-02-18 00:28:14,223 cashierhomepageView.py[line:99] INFO ============Choose Bulk packaging Product ==============
+2021-02-18 00:28:15,038 cashierhomepageView.py[line:101] INFO ============Choose quantity==============
+2021-02-18 00:28:18,918 cashierhomepageView.py[line:103] INFO ============Input quantity==============
+2021-02-18 00:28:19,689 cashierhomepageView.py[line:105] INFO ============Choose quantity==============
+2021-02-18 00:28:20,639 cashierhomepageView.py[line:107] INFO ============Input quantity==============
+2021-02-18 00:28:23,544 cashierhomepageView.py[line:110] INFO ============Choose quantity==============
+2021-02-18 00:28:24,122 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:00:58,964 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:01:49,040 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:01:51,900 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:01:51,901 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-19 17:02:02,411 common_fun.py[line:32] INFO chai element is not found!
+2021-02-19 17:02:02,411 cashierhomepageView.py[line:68] INFO ============Jump Code List Center============
+2021-02-19 17:02:25,471 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:03:37,833 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:03:41,496 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:03:41,496 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-19 17:03:48,741 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:03:51,930 cashierhomepageView.py[line:68] INFO ============Jump Code List Center============
+2021-02-19 17:03:52,183 cashierhomepageView.py[line:70] INFO ============Back to Homepage============
+2021-02-19 17:03:55,495 cashierhomepageView.py[line:72] INFO ============Add Customer============
+2021-02-19 17:03:56,667 cashierhomepageView.py[line:74] INFO ============Enter Customer Name============
+2021-02-19 17:04:03,049 cashierhomepageView.py[line:77] INFO ============Enter Customer Phone============
+2021-02-19 17:04:08,514 cashierhomepageView.py[line:79] INFO ============Enter Customer CarNO============
+2021-02-19 17:04:13,855 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:08:21,625 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:08:24,506 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:08:24,506 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-19 17:08:30,230 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:08:33,402 cashierhomepageView.py[line:72] INFO ============Add Customer============
+2021-02-19 17:08:33,942 cashierhomepageView.py[line:74] INFO ============Enter Customer Name============
+2021-02-19 17:08:39,514 cashierhomepageView.py[line:76] INFO ============Enter Customer Phone============
+2021-02-19 17:08:45,000 cashierhomepageView.py[line:78] INFO ============Enter Customer CarNO============
+2021-02-19 17:08:50,407 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:16:28,859 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:16:32,364 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:16:32,364 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-19 17:16:39,030 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:16:42,195 cashierhomepageView.py[line:72] INFO ============Add Customer============
+2021-02-19 17:16:42,680 cashierhomepageView.py[line:74] INFO ============Enter Customer Name============
+2021-02-19 17:16:48,152 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:19:12,485 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:19:15,412 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:19:15,413 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-19 17:19:21,566 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:19:24,721 cashierhomepageView.py[line:72] INFO ============Add Customer============
+2021-02-19 17:19:25,188 cashierhomepageView.py[line:74] INFO ============Enter Customer Name============
+2021-02-19 17:19:30,666 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:21:37,007 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:21:40,022 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:21:40,022 cashierhomepageView.py[line:66] INFO ============Click chaiBtn============
+2021-02-19 17:21:45,945 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:21:49,113 cashierhomepageView.py[line:72] INFO ============Add Customer============
+2021-02-19 17:21:49,614 cashierhomepageView.py[line:74] INFO ============Enter Customer Name============
+2021-02-19 17:21:55,170 cashierhomepageView.py[line:78] INFO ============Enter Customer Phone============
+2021-02-19 17:22:00,625 cashierhomepageView.py[line:80] INFO ============Enter Customer CarNO============
+2021-02-19 17:22:05,953 cashierhomepageView.py[line:82] INFO ============Saved============
+2021-02-19 17:22:09,628 cashierhomepageView.py[line:84] INFO ============New customers============
+2021-02-19 17:22:11,574 cashierhomepageView.py[line:88] INFO ============Choose batch ==============
+2021-02-19 17:22:12,711 cashierhomepageView.py[line:90] INFO ============Choose Custom packaging Product ==============
+2021-02-19 17:22:13,859 cashierhomepageView.py[line:92] INFO ============Choose quantity==============
+2021-02-19 17:22:18,572 cashierhomepageView.py[line:94] INFO ============Input quantity==============
+2021-02-19 17:22:19,335 cashierhomepageView.py[line:96] INFO ===========Determine===============
+2021-02-19 17:22:20,129 cashierhomepageView.py[line:98] INFO ===========Turn on the weighbridge===============
+2021-02-19 17:22:21,256 cashierhomepageView.py[line:100] INFO ============Choose Bulk packaging Product ==============
+2021-02-19 17:22:22,151 cashierhomepageView.py[line:102] INFO ============Choose quantity==============
+2021-02-19 17:22:26,111 cashierhomepageView.py[line:104] INFO ============Input quantity==============
+2021-02-19 17:22:26,654 cashierhomepageView.py[line:106] INFO ============Choose quantity==============
+2021-02-19 17:22:27,592 cashierhomepageView.py[line:108] INFO ============Input quantity==============
+2021-02-19 17:22:29,830 cashierhomepageView.py[line:111] INFO ============Choose quantity==============
+2021-02-19 17:22:30,865 cashierhomepageView.py[line:113] INFO ============Input quantity==============
+2021-02-19 17:22:31,898 cashierhomepageView.py[line:115] INFO ===========Determine===============
+2021-02-19 17:22:32,658 cashierhomepageView.py[line:117] INFO ===========Show user===============
+2021-02-19 17:22:33,758 cashierhomepageView.py[line:119] INFO ===========Select user===============
+2021-02-19 17:22:35,950 cashierhomepageView.py[line:121] INFO ===========Add Remark===============
+2021-02-19 17:22:36,669 cashierhomepageView.py[line:123] INFO ===========Enter Remark===============
+2021-02-19 17:22:42,387 cashierhomepageView.py[line:125] INFO ===========Saved===============
+2021-02-19 17:22:43,472 cashierhomepageView.py[line:127] INFO ===========Add Additional fee===============
+2021-02-19 17:22:44,027 cashierhomepageView.py[line:129] INFO ===========Enter the amount ===============
+2021-02-19 17:22:49,352 cashierhomepageView.py[line:131] INFO ===========Saved===============
+2021-02-19 17:22:50,397 cashierhomepageView.py[line:133] INFO ===========Sales Order===============
+2021-02-19 17:22:50,966 cashierhomepageView.py[line:135] INFO ===========Cash register===============
+2021-02-19 17:22:52,860 cashierhomepageView.py[line:137] INFO ============Click on the previous order============
+2021-02-19 17:22:55,064 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:39:06,673 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:39:10,100 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:39:10,100 cashierhomepageView.py[line:68] INFO ============Click chaiBtn============
+2021-02-19 17:39:16,595 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:39:19,806 cashierhomepageView.py[line:133] INFO ============New customers============
+2021-02-19 17:39:31,567 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:40:48,686 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:40:51,598 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:40:51,598 cashierhomepageView.py[line:68] INFO ============Click chaiBtn============
+2021-02-19 17:40:57,489 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:41:00,714 cashierhomepageView.py[line:133] INFO ============New customers============
+2021-02-19 17:41:02,607 cashierhomepageView.py[line:137] INFO ============Delete customers============
+2021-02-19 17:41:04,934 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:41:58,717 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:42:01,613 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:42:01,614 cashierhomepageView.py[line:68] INFO ============Click chaiBtn============
+2021-02-19 17:42:07,395 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:42:10,532 cashierhomepageView.py[line:133] INFO ============New customers============
+2021-02-19 17:42:12,553 cashierhomepageView.py[line:137] INFO ============Delete customers============
+2021-02-19 17:42:15,243 cashierhomepageView.py[line:141] INFO ============Choose batch ==============
+2021-02-19 17:42:16,310 cashierhomepageView.py[line:143] INFO ============Choose Custom packaging Product ==============
+2021-02-19 17:42:17,545 cashierhomepageView.py[line:145] INFO ============Choose quantity==============
+2021-02-19 17:42:22,222 cashierhomepageView.py[line:147] INFO ============Input quantity==============
+2021-02-19 17:42:22,653 cashierhomepageView.py[line:149] INFO ===========Determine===============
+2021-02-19 17:42:23,494 cashierhomepageView.py[line:151] INFO ============New customers============
+2021-02-19 17:42:24,612 cashierhomepageView.py[line:153] INFO ============Delete First customer============
+2021-02-19 17:42:25,589 cashierhomepageView.py[line:155] INFO ============Confirm Button============
+2021-02-19 17:42:29,255 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:46:27,002 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:46:29,948 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:46:29,948 cashierhomepageView.py[line:68] INFO ============Click chaiBtn============
+2021-02-19 17:46:35,582 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:46:38,730 cashierhomepageView.py[line:70] INFO ============Jump Code List Center============
+2021-02-19 17:46:39,039 cashierhomepageView.py[line:72] INFO ============Back to Homepage============
+2021-02-19 17:46:42,541 cashierhomepageView.py[line:74] INFO ============Add Customer============
+2021-02-19 17:46:43,667 cashierhomepageView.py[line:76] INFO ============Enter Customer Name============
+2021-02-19 17:46:49,413 cashierhomepageView.py[line:78] INFO ============Enter Customer Phone============
+2021-02-19 17:46:54,665 cashierhomepageView.py[line:80] INFO ============Enter Customer CarNO============
+2021-02-19 17:46:59,884 cashierhomepageView.py[line:82] INFO ============Saved============
+2021-02-19 17:47:03,592 cashierhomepageView.py[line:84] INFO ============Choose batch ==============
+2021-02-19 17:47:04,257 cashierhomepageView.py[line:86] INFO ============Choose Custom packaging Product ==============
+2021-02-19 17:47:05,465 cashierhomepageView.py[line:88] INFO ============Choose quantity==============
+2021-02-19 17:47:10,239 cashierhomepageView.py[line:90] INFO ============Input quantity==============
+2021-02-19 17:47:10,915 cashierhomepageView.py[line:92] INFO ===========Determine===============
+2021-02-19 17:47:11,743 cashierhomepageView.py[line:94] INFO ===========Turn on the weighbridge===============
+2021-02-19 17:47:12,791 cashierhomepageView.py[line:96] INFO ============Choose Bulk packaging Product ==============
+2021-02-19 17:47:13,511 cashierhomepageView.py[line:98] INFO ============Choose quantity==============
+2021-02-19 17:47:17,451 cashierhomepageView.py[line:100] INFO ============Input quantity==============
+2021-02-19 17:47:18,131 cashierhomepageView.py[line:102] INFO ============Choose quantity==============
+2021-02-19 17:47:19,170 cashierhomepageView.py[line:104] INFO ============Input quantity==============
+2021-02-19 17:47:21,431 cashierhomepageView.py[line:107] INFO ============Choose quantity==============
+2021-02-19 17:47:22,101 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 17:49:39,497 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 17:49:42,610 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-19 17:49:42,610 cashierhomepageView.py[line:68] INFO ============Click chaiBtn============
+2021-02-19 17:49:48,666 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 17:49:51,813 cashierhomepageView.py[line:70] INFO ============Jump Code List Center============
+2021-02-19 17:49:52,104 cashierhomepageView.py[line:72] INFO ============Back to Homepage============
+2021-02-19 17:49:55,226 cashierhomepageView.py[line:74] INFO ============Add Customer============
+2021-02-19 17:49:56,331 cashierhomepageView.py[line:76] INFO ============Enter Customer Name============
+2021-02-19 17:50:01,992 cashierhomepageView.py[line:78] INFO ============Enter Customer Phone============
+2021-02-19 17:50:07,455 cashierhomepageView.py[line:80] INFO ============Enter Customer CarNO============
+2021-02-19 17:50:12,844 cashierhomepageView.py[line:82] INFO ============Saved============
+2021-02-19 17:50:13,959 cashierhomepageView.py[line:84] INFO ============Choose batch ==============
+2021-02-19 17:50:14,943 cashierhomepageView.py[line:86] INFO ============Choose Custom packaging Product ==============
+2021-02-19 17:50:16,052 cashierhomepageView.py[line:88] INFO ============Choose quantity==============
+2021-02-19 17:50:20,888 cashierhomepageView.py[line:90] INFO ============Input quantity==============
+2021-02-19 17:50:21,663 cashierhomepageView.py[line:92] INFO ===========Determine===============
+2021-02-19 17:50:22,486 cashierhomepageView.py[line:95] INFO ===========Turn on the weighbridge===============
+2021-02-19 17:50:23,669 cashierhomepageView.py[line:97] INFO ============Choose Bulk packaging Product ==============
+2021-02-19 17:50:24,434 cashierhomepageView.py[line:99] INFO ============Choose quantity==============
+2021-02-19 17:50:28,512 cashierhomepageView.py[line:101] INFO ============Input quantity==============
+2021-02-19 17:50:29,182 cashierhomepageView.py[line:103] INFO ============Choose quantity==============
+2021-02-19 17:50:30,257 cashierhomepageView.py[line:105] INFO ============Input quantity==============
+2021-02-19 17:50:32,653 cashierhomepageView.py[line:108] INFO ============Choose quantity==============
+2021-02-19 17:50:33,620 cashierhomepageView.py[line:110] INFO ============Input quantity==============
+2021-02-19 17:50:34,857 cashierhomepageView.py[line:112] INFO ===========Determine===============
+2021-02-19 17:50:35,677 cashierhomepageView.py[line:114] INFO ===========Show user===============
+2021-02-19 17:50:36,848 cashierhomepageView.py[line:116] INFO ===========Select user===============
+2021-02-19 17:50:39,242 cashierhomepageView.py[line:118] INFO ===========Add Remark===============
+2021-02-19 17:50:40,059 cashierhomepageView.py[line:120] INFO ===========Enter Remark===============
+2021-02-19 17:50:45,600 cashierhomepageView.py[line:122] INFO ===========Saved===============
+2021-02-19 17:50:46,650 cashierhomepageView.py[line:124] INFO ===========Add Additional fee===============
+2021-02-19 17:50:47,234 cashierhomepageView.py[line:126] INFO ===========Enter the amount ===============
+2021-02-19 17:50:52,545 cashierhomepageView.py[line:128] INFO ===========Saved===============
+2021-02-19 17:50:53,632 cashierhomepageView.py[line:130] INFO ===========Sales Order===============
+2021-02-19 17:50:54,207 cashierhomepageView.py[line:132] INFO ===========Cash register===============
+2021-02-19 17:50:56,102 cashierhomepageView.py[line:134] INFO ============New customers============
+2021-02-19 17:50:59,074 cashierhomepageView.py[line:138] INFO ============Delete customers============
+2021-02-19 17:51:01,844 cashierhomepageView.py[line:142] INFO ============Choose batch ==============
+2021-02-19 17:51:02,949 cashierhomepageView.py[line:144] INFO ============Choose Custom packaging Product ==============
+2021-02-19 17:51:03,949 cashierhomepageView.py[line:146] INFO ============Choose quantity==============
+2021-02-19 17:51:07,910 cashierhomepageView.py[line:148] INFO ============Input quantity==============
+2021-02-19 17:51:08,462 cashierhomepageView.py[line:150] INFO ===========Determine===============
+2021-02-19 17:51:09,246 cashierhomepageView.py[line:152] INFO ============New customers============
+2021-02-19 17:51:10,507 cashierhomepageView.py[line:154] INFO ============Delete First customer============
+2021-02-19 17:51:12,048 cashierhomepageView.py[line:156] INFO ============Confirm Button============
+2021-02-19 17:51:13,252 cashierhomepageView.py[line:158] INFO ============Click on the previous order============
+2021-02-19 17:51:14,843 cashierhomepageView.py[line:160] INFO ===========Turn off the weighbridge===============
+2021-02-19 17:51:16,064 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 18:37:32,893 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 18:37:35,923 test_codelistcenter.py[line:9] INFO ==========test_codelistcenter_linshiguhang========
+2021-02-19 18:37:35,924 codelistcenterView.py[line:9] INFO ============Click chaiBtn============
+2021-02-19 18:37:42,595 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 18:37:45,733 codelistcenterView.py[line:11] INFO ============Jump Code List Center============
+2021-02-19 18:37:46,010 myunit.py[line:14] INFO ======tearDown=====
+2021-02-19 18:47:26,002 myunit.py[line:9] INFO ======setUp=========
+2021-02-19 18:47:29,003 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-19 18:47:29,005 loginView.py[line:20] INFO ============login_action==============
+2021-02-19 18:47:29,006 loginView.py[line:21] INFO username is:19000032420
+2021-02-19 18:47:39,608 loginView.py[line:26] INFO password is:123456
+2021-02-19 18:47:44,842 loginView.py[line:29] INFO click loginBtn
+2021-02-19 18:47:45,506 loginView.py[line:32] INFO click chaiBtn
+2021-02-19 18:47:49,449 common_fun.py[line:34] INFO click cancelBtn
+2021-02-19 18:47:52,596 common_fun.py[line:83] INFO get login finished screenshot
+2021-02-19 18:47:53,567 loginView.py[line:35] INFO login finished
+2021-02-19 18:47:53,568 loginView.py[line:39] INFO =========logout_action==========
+2021-02-19 18:47:53,568 loginView.py[line:40] INFO go to personal center
+2021-02-19 18:47:53,985 loginView.py[line:43] INFO click logoutBtn
+2021-02-19 18:47:54,892 loginView.py[line:45] INFO click confirmBtn
+2021-02-19 18:47:58,336 common_fun.py[line:83] INFO get logout finished screenshot
+2021-02-19 18:48:02,469 loginView.py[line:48] INFO logout finished
+2021-02-19 18:48:02,470 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 10:29:44,935 cashierhomepageView.py[line:111] INFO check_add_customer
+2021-02-20 10:31:01,044 cashierhomepageView.py[line:111] INFO check_add_customer
+2021-02-20 10:32:42,115 cashierhomepageView.py[line:111] INFO ============Click chaiBtn============
+2021-02-20 10:32:48,345 common_fun.py[line:34] INFO click cancelBtn
+2021-02-20 10:32:51,498 cashierhomepageView.py[line:113] INFO ===========Show user===============
+2021-02-20 10:32:51,859 cashierhomepageView.py[line:115] INFO check_add_customer
+2021-02-20 10:32:53,178 cashierhomepageView.py[line:118] INFO 新增客户输入展示的新增客户名字为：临时客户
+2021-02-20 10:55:24,536 cashierhomepageView.py[line:111] INFO ============Click chaiBtn============
+2021-02-20 10:55:31,891 common_fun.py[line:34] INFO click cancelBtn
+2021-02-20 10:55:35,054 cashierhomepageView.py[line:115] INFO check_add_customer
+2021-02-20 10:55:35,140 cashierhomepageView.py[line:118] INFO 新增客户输入展示的新增客户名字为：临时客户
+2021-02-20 12:07:13,944 cashierhomepageView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 12:07:20,326 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 12:07:23,513 cashierhomepageView.py[line:16] INFO ============Jump Code List Center============
+2021-02-20 12:07:23,823 cashierhomepageView.py[line:18] INFO ============Back to Homepage============
+2021-02-20 12:07:27,110 cashierhomepageView.py[line:20] INFO ============Add Customer============
+2021-02-20 12:07:28,311 cashierhomepageView.py[line:22] INFO ============Enter Customer Name============
+2021-02-20 12:07:34,330 cashierhomepageView.py[line:24] INFO ============Enter Customer Phone============
+2021-02-20 12:07:39,840 cashierhomepageView.py[line:26] INFO ============Enter Customer CarNO============
+2021-02-20 12:07:45,244 cashierhomepageView.py[line:28] INFO ============Saved============
+2021-02-20 12:07:48,922 cashierhomepageView.py[line:30] INFO ============Mysql verification============
+2021-02-20 12:09:26,996 cashierhomepageView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 12:09:33,232 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 12:09:36,388 cashierhomepageView.py[line:20] INFO ============Add Customer============
+2021-02-20 12:09:36,888 cashierhomepageView.py[line:22] INFO ============Enter Customer Name============
+2021-02-20 12:09:42,499 cashierhomepageView.py[line:24] INFO ============Enter Customer Phone============
+2021-02-20 12:09:47,982 cashierhomepageView.py[line:26] INFO ============Enter Customer CarNO============
+2021-02-20 12:09:53,362 cashierhomepageView.py[line:28] INFO ============Saved============
+2021-02-20 12:09:57,035 cashierhomepageView.py[line:30] INFO ============Mysql verification============
+2021-02-20 12:09:57,035 mysqlverification.py[line:7] INFO check_add_customer
+2021-02-20 12:09:57,146 mysqlverification.py[line:9] INFO 新增客户输入展示的新增客户名字为：张玉兰725
+2021-02-20 12:10:32,169 cashierhomepageView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 12:10:39,414 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 12:10:42,668 cashierhomepageView.py[line:20] INFO ============Add Customer============
+2021-02-20 12:10:44,178 cashierhomepageView.py[line:22] INFO ============Enter Customer Name============
+2021-02-20 12:10:51,802 cashierhomepageView.py[line:24] INFO ============Enter Customer Phone============
+2021-02-20 12:10:58,805 cashierhomepageView.py[line:26] INFO ============Enter Customer CarNO============
+2021-02-20 12:11:05,210 cashierhomepageView.py[line:28] INFO ============Saved============
+2021-02-20 12:11:06,228 cashierhomepageView.py[line:30] INFO ============Mysql verification============
+2021-02-20 12:11:06,229 mysqlverification.py[line:7] INFO check_add_customer
+2021-02-20 12:11:07,778 mysqlverification.py[line:9] INFO 新增客户输入展示的新增客户名字为：秦荣30
+2021-02-20 12:11:33,668 mysqlverification.py[line:16] INFO 数据库查询的结果为：新增客户姓名：秦荣30，新增客户电话：13242610444，新增客户车牌号：群马AE86，在收银新增页面新增
+2021-02-20 12:11:33,668 mysqlverification.py[line:19] INFO 新增客户断言成功
+2021-02-20 13:47:21,351 report.py[line:26] INFO start run testcase...
+2021-02-20 13:47:21,352 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 13:47:24,441 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 13:47:24,443 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 13:47:24,444 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 13:47:35,194 loginView.py[line:14] INFO password is:123456
+2021-02-20 13:47:40,996 loginView.py[line:17] INFO click loginBtn
+2021-02-20 13:47:41,695 loginView.py[line:20] INFO click chaiBtn
+2021-02-20 13:47:45,743 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 13:47:48,900 common_fun.py[line:84] INFO get login finished screenshot
+2021-02-20 13:47:50,252 loginView.py[line:23] INFO login finished
+2021-02-20 13:47:50,252 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 13:47:56,211 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 13:47:59,264 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-20 13:47:59,264 cashierhomepageView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 13:48:05,617 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 13:48:08,771 cashierhomepageView.py[line:16] INFO ============Jump Code List Center============
+2021-02-20 13:48:09,013 cashierhomepageView.py[line:18] INFO ============Back to Homepage============
+2021-02-20 13:48:12,769 cashierhomepageView.py[line:20] INFO ============Add Customer============
+2021-02-20 13:48:13,886 cashierhomepageView.py[line:22] INFO ============Enter Customer Name============
+2021-02-20 13:48:19,593 cashierhomepageView.py[line:24] INFO ============Enter Customer Phone============
+2021-02-20 13:48:25,119 cashierhomepageView.py[line:26] INFO ============Enter Customer CarNO============
+2021-02-20 13:48:30,458 cashierhomepageView.py[line:28] INFO ============Saved============
+2021-02-20 13:48:34,172 cashierhomepageView.py[line:30] INFO ============Mysql verification============
+2021-02-20 13:48:34,255 mysqlverification.py[line:10] INFO 新增客户输入展示的新增客户名字为：杨柳88
+2021-02-20 13:48:46,023 mysqlverification.py[line:17] INFO 数据库查询的结果为：新增客户姓名：杨柳88，新增客户电话：15836196692，新增客户车牌号：群马AE86，在收银新增页面新增
+2021-02-20 13:48:46,024 mysqlverification.py[line:20] INFO 新增客户断言成功
+2021-02-20 13:48:46,032 cashierhomepageView.py[line:32] INFO ============Choose batch ==============
+2021-02-20 13:48:46,495 cashierhomepageView.py[line:34] INFO ============Choose Custom packaging Product ==============
+2021-02-20 13:48:47,646 cashierhomepageView.py[line:36] INFO ============Choose quantity==============
+2021-02-20 13:48:52,430 cashierhomepageView.py[line:38] INFO ============Input quantity==============
+2021-02-20 13:48:53,237 cashierhomepageView.py[line:40] INFO ===========Determine===============
+2021-02-20 13:48:54,010 cashierhomepageView.py[line:43] INFO ===========Turn on the weighbridge===============
+2021-02-20 13:48:55,103 cashierhomepageView.py[line:45] INFO ============Choose Bulk packaging Product ==============
+2021-02-20 13:48:55,894 cashierhomepageView.py[line:47] INFO ============Choose quantity==============
+2021-02-20 13:48:59,867 cashierhomepageView.py[line:49] INFO ============Input quantity==============
+2021-02-20 13:49:00,526 cashierhomepageView.py[line:51] INFO ============Choose quantity==============
+2021-02-20 13:49:01,569 cashierhomepageView.py[line:53] INFO ============Input quantity==============
+2021-02-20 13:49:04,008 cashierhomepageView.py[line:56] INFO ============Choose quantity==============
+2021-02-20 13:49:05,131 cashierhomepageView.py[line:58] INFO ============Input quantity==============
+2021-02-20 13:49:06,291 cashierhomepageView.py[line:60] INFO ===========Determine===============
+2021-02-20 13:49:07,090 cashierhomepageView.py[line:62] INFO ===========Show user===============
+2021-02-20 13:49:08,178 cashierhomepageView.py[line:64] INFO ===========Select user===============
+2021-02-20 13:49:10,255 cashierhomepageView.py[line:66] INFO ===========Add Remark===============
+2021-02-20 13:49:11,037 cashierhomepageView.py[line:68] INFO ===========Enter Remark===============
+2021-02-20 13:49:16,479 cashierhomepageView.py[line:70] INFO ===========Saved===============
+2021-02-20 13:49:17,603 cashierhomepageView.py[line:72] INFO ===========Add Additional fee===============
+2021-02-20 13:49:18,212 cashierhomepageView.py[line:74] INFO ===========Enter the amount ===============
+2021-02-20 13:49:23,543 cashierhomepageView.py[line:76] INFO ===========Saved===============
+2021-02-20 13:49:24,668 cashierhomepageView.py[line:78] INFO ===========Sales Order===============
+2021-02-20 13:49:25,238 cashierhomepageView.py[line:80] INFO ===========Cash register===============
+2021-02-20 13:49:27,344 cashierhomepageView.py[line:82] INFO ============New customers============
+2021-02-20 13:49:30,297 cashierhomepageView.py[line:86] INFO ============Delete customers============
+2021-02-20 13:49:33,091 cashierhomepageView.py[line:90] INFO ============Choose batch ==============
+2021-02-20 13:49:34,724 cashierhomepageView.py[line:92] INFO ============Choose Custom packaging Product ==============
+2021-02-20 13:49:36,534 cashierhomepageView.py[line:94] INFO ============Choose quantity==============
+2021-02-20 13:49:41,453 cashierhomepageView.py[line:96] INFO ============Input quantity==============
+2021-02-20 13:49:43,576 cashierhomepageView.py[line:98] INFO ===========Determine===============
+2021-02-20 13:49:44,574 cashierhomepageView.py[line:100] INFO ============New customers============
+2021-02-20 13:49:46,388 cashierhomepageView.py[line:102] INFO ============Delete First customer============
+2021-02-20 13:49:48,437 cashierhomepageView.py[line:104] INFO ============Confirm Button============
+2021-02-20 13:49:49,826 cashierhomepageView.py[line:106] INFO ============Click on the previous order============
+2021-02-20 13:49:51,623 cashierhomepageView.py[line:108] INFO ===========Turn off the weighbridge===============
+2021-02-20 13:49:52,777 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 13:53:08,979 report.py[line:26] INFO start run testcase...
+2021-02-20 13:53:08,980 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 13:53:13,003 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 13:53:13,005 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 13:53:13,006 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 13:53:23,585 loginView.py[line:14] INFO password is:123456
+2021-02-20 13:53:28,953 loginView.py[line:17] INFO click loginBtn
+2021-02-20 13:53:29,658 loginView.py[line:20] INFO click chaiBtn
+2021-02-20 13:53:34,040 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 13:53:37,190 common_fun.py[line:84] INFO get login finished screenshot
+2021-02-20 13:53:38,314 loginView.py[line:23] INFO login finished
+2021-02-20 13:53:38,315 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 14:05:45,941 report.py[line:26] INFO start run testcase...
+2021-02-20 14:05:45,941 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 14:05:48,949 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 14:05:48,952 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 14:05:48,952 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 14:05:59,453 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 14:06:39,488 report.py[line:26] INFO start run testcase...
+2021-02-20 14:06:39,489 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 14:06:42,527 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 14:06:42,529 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 14:06:42,530 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 14:06:52,642 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 14:06:58,696 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 14:07:01,586 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-20 14:07:01,587 cashierhomepageView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 14:07:08,281 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 14:07:11,440 cashierhomepageView.py[line:16] INFO ============Jump Code List Center============
+2021-02-20 14:07:11,703 cashierhomepageView.py[line:18] INFO ============Back to Homepage============
+2021-02-20 14:07:15,184 cashierhomepageView.py[line:20] INFO ============Add Customer============
+2021-02-20 14:07:16,255 cashierhomepageView.py[line:22] INFO ============Enter Customer Name============
+2021-02-20 14:07:21,841 cashierhomepageView.py[line:24] INFO ============Enter Customer Phone============
+2021-02-20 14:07:27,349 cashierhomepageView.py[line:26] INFO ============Enter Customer CarNO============
+2021-02-20 14:07:32,679 cashierhomepageView.py[line:28] INFO ============Saved============
+2021-02-20 14:07:36,564 cashierhomepageView.py[line:30] INFO ============Mysql verification============
+2021-02-20 14:07:36,641 mysqlverification.py[line:10] INFO 新增客户输入展示的新增客户名字为：唐艳855
+2021-02-20 14:08:05,936 mysqlverification.py[line:17] INFO 数据库查询的结果为：新增客户姓名：唐艳855，新增客户电话：15351332076，新增客户车牌号：群马AE86，在收银新增页面新增
+2021-02-20 14:08:05,938 mysqlverification.py[line:20] INFO 新增客户断言成功
+2021-02-20 14:08:05,962 cashierhomepageView.py[line:32] INFO ============Choose batch ==============
+2021-02-20 14:08:07,847 cashierhomepageView.py[line:34] INFO ============Choose Custom packaging Product ==============
+2021-02-20 14:08:10,257 cashierhomepageView.py[line:36] INFO ============Choose quantity==============
+2021-02-20 14:08:16,017 cashierhomepageView.py[line:38] INFO ============Input quantity==============
+2021-02-20 14:08:18,295 cashierhomepageView.py[line:40] INFO ===========Determine===============
+2021-02-20 14:08:19,542 cashierhomepageView.py[line:43] INFO ===========Turn on the weighbridge===============
+2021-02-20 14:08:22,076 cashierhomepageView.py[line:45] INFO ============Choose Bulk packaging Product ==============
+2021-02-20 14:08:23,567 cashierhomepageView.py[line:47] INFO ============Choose quantity==============
+2021-02-20 14:08:29,455 cashierhomepageView.py[line:49] INFO ============Input quantity==============
+2021-02-20 14:08:31,738 cashierhomepageView.py[line:51] INFO ============Choose quantity==============
+2021-02-20 14:08:33,982 cashierhomepageView.py[line:53] INFO ============Input quantity==============
+2021-02-20 14:08:40,344 cashierhomepageView.py[line:56] INFO ============Choose quantity==============
+2021-02-20 14:08:41,733 cashierhomepageView.py[line:58] INFO ============Input quantity==============
+2021-02-20 14:08:44,562 cashierhomepageView.py[line:60] INFO ===========Determine===============
+2021-02-20 14:08:45,735 cashierhomepageView.py[line:62] INFO ===========Show user===============
+2021-02-20 14:08:47,471 cashierhomepageView.py[line:64] INFO ===========Select user===============
+2021-02-20 14:08:49,693 cashierhomepageView.py[line:66] INFO ===========Add Remark===============
+2021-02-20 14:08:50,509 cashierhomepageView.py[line:68] INFO ===========Enter Remark===============
+2021-02-20 14:08:56,339 cashierhomepageView.py[line:70] INFO ===========Saved===============
+2021-02-20 14:08:57,434 cashierhomepageView.py[line:72] INFO ===========Add Additional fee===============
+2021-02-20 14:08:58,002 cashierhomepageView.py[line:74] INFO ===========Enter the amount ===============
+2021-02-20 14:09:03,248 cashierhomepageView.py[line:76] INFO ===========Saved===============
+2021-02-20 14:09:04,342 cashierhomepageView.py[line:78] INFO ===========Sales Order===============
+2021-02-20 14:09:04,942 cashierhomepageView.py[line:80] INFO ===========Cash register===============
+2021-02-20 14:09:06,925 cashierhomepageView.py[line:82] INFO ============New customers============
+2021-02-20 14:09:09,898 cashierhomepageView.py[line:86] INFO ============Delete customers============
+2021-02-20 14:09:12,651 cashierhomepageView.py[line:90] INFO ============Choose batch ==============
+2021-02-20 14:09:13,795 cashierhomepageView.py[line:92] INFO ============Choose Custom packaging Product ==============
+2021-02-20 14:09:15,076 cashierhomepageView.py[line:94] INFO ============Choose quantity==============
+2021-02-20 14:09:20,184 cashierhomepageView.py[line:96] INFO ============Input quantity==============
+2021-02-20 14:09:22,761 cashierhomepageView.py[line:98] INFO ===========Determine===============
+2021-02-20 14:09:23,916 cashierhomepageView.py[line:100] INFO ============New customers============
+2021-02-20 14:09:25,898 cashierhomepageView.py[line:102] INFO ============Delete First customer============
+2021-02-20 14:09:27,198 cashierhomepageView.py[line:104] INFO ============Confirm Button============
+2021-02-20 14:09:28,575 cashierhomepageView.py[line:106] INFO ============Click on the previous order============
+2021-02-20 14:09:30,773 cashierhomepageView.py[line:108] INFO ===========Turn off the weighbridge===============
+2021-02-20 14:09:31,277 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 14:39:46,123 report.py[line:29] INFO start run testcase...
+2021-02-20 14:39:46,123 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 14:39:49,126 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 14:39:49,129 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 14:39:49,129 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 14:39:59,471 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 14:40:08,626 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 14:40:12,123 test_codelistcenter.py[line:9] INFO ==========test_codelistcenter_linshiguhang========
+2021-02-20 14:40:12,123 codelistcenterView.py[line:8] INFO ============Click chaiBtn============
+2021-02-20 14:40:18,450 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 14:40:21,676 codelistcenterView.py[line:10] INFO ============Jump Code List Center============
+2021-02-20 14:40:21,925 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 16:28:01,057 report.py[line:38] INFO start run testcase...
+2021-02-20 16:28:01,057 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 16:28:04,389 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 16:28:04,391 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 16:28:04,391 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 16:28:14,791 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 16:28:20,690 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 16:28:23,962 test_codelistcenter.py[line:9] INFO ==========test_codelistcenter_linshiguhang========
+2021-02-20 16:28:23,962 codelistcenterView.py[line:8] INFO ============Click chaiBtn============
+2021-02-20 16:28:30,432 common_fun.py[line:35] INFO click cancelBtn
+2021-02-20 16:28:33,586 codelistcenterView.py[line:10] INFO ============Jump Code List Center============
+2021-02-20 16:28:33,830 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 16:38:31,727 report.py[line:38] INFO start run testcase...
+2021-02-20 16:38:31,727 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 16:38:34,853 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 16:38:34,855 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 16:38:34,856 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 16:38:44,936 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 16:50:16,712 report.py[line:38] INFO start run testcase...
+2021-02-20 16:50:16,713 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 16:50:19,607 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 16:50:19,610 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 16:50:19,610 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 16:50:30,080 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 16:53:21,548 report.py[line:38] INFO start run testcase...
+2021-02-20 16:53:21,548 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 16:53:24,611 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 16:53:24,614 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 16:53:24,614 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 16:53:35,127 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 16:57:10,976 report.py[line:38] INFO start run testcase...
+2021-02-20 16:57:10,977 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 16:57:13,885 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 16:57:13,887 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 16:57:13,887 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 16:57:24,010 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 17:24:34,034 report.py[line:38] INFO start run testcase...
+2021-02-20 17:24:34,035 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 17:24:37,084 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 17:24:37,087 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 17:24:37,087 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 17:24:47,411 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 17:25:34,887 report.py[line:38] INFO start run testcase...
+2021-02-20 17:25:34,888 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 17:25:38,009 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 17:25:38,011 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 17:25:38,011 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 17:25:48,392 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 17:26:56,622 report.py[line:38] INFO start run testcase...
+2021-02-20 17:26:56,623 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 17:26:59,566 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 17:26:59,568 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 17:26:59,568 loginView.py[line:10] INFO username is:19000032420
+2021-02-20 17:27:09,705 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 17:52:05,514 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 17:52:09,234 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 17:52:09,236 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 17:52:15,800 common_fun.py[line:60] INFO click cancelBtn
+2021-02-20 17:52:19,010 common_fun.py[line:41] INFO Already logged in
+2021-02-20 17:52:19,010 common_fun.py[line:42] INFO go to personal center
+2021-02-20 17:52:19,538 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 17:52:20,411 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 17:52:24,116 common_fun.py[line:109] INFO get logout finished screenshot
+2021-02-20 17:52:28,649 common_fun.py[line:50] INFO logout finished
+2021-02-20 17:52:28,650 loginView.py[line:12] INFO username is:19000032420
+2021-02-20 17:52:34,654 loginView.py[line:16] INFO password is:123456
+2021-02-20 17:52:39,935 loginView.py[line:19] INFO click loginBtn
+2021-02-20 17:52:40,617 loginView.py[line:22] INFO click chaiBtn
+2021-02-20 17:52:44,714 common_fun.py[line:60] INFO click cancelBtn
+2021-02-20 17:52:47,861 common_fun.py[line:109] INFO get login finished screenshot
+2021-02-20 17:52:48,864 loginView.py[line:25] INFO login finished
+2021-02-20 17:52:48,864 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 17:53:35,747 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 17:53:39,044 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 17:53:39,047 loginView.py[line:9] INFO ============login_action==============
+2021-02-20 17:53:49,333 common_fun.py[line:58] INFO chai element is not found!
+2021-02-20 17:53:59,638 common_fun.py[line:39] INFO Not logged in
+2021-02-20 17:53:59,639 loginView.py[line:12] INFO username is:19000032420
+2021-02-20 17:54:07,786 loginView.py[line:16] INFO password is:123456
+2021-02-20 17:54:15,078 loginView.py[line:19] INFO click loginBtn
+2021-02-20 17:54:16,071 loginView.py[line:22] INFO click chaiBtn
+2021-02-20 17:54:42,029 common_fun.py[line:58] INFO chai element is not found!
+2021-02-20 17:54:42,030 common_fun.py[line:109] INFO get login finished screenshot
+2021-02-20 17:54:48,693 loginView.py[line:25] INFO login finished
+2021-02-20 17:54:48,694 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 17:55:50,488 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 17:55:53,604 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 17:55:53,607 loginView.py[line:8] INFO ============check_chaiBtn==============
+2021-02-20 17:56:00,324 common_fun.py[line:60] INFO click cancelBtn
+2021-02-20 17:56:03,497 loginView.py[line:10] INFO ============check_Login==============
+2021-02-20 17:56:03,535 common_fun.py[line:41] INFO Already logged in
+2021-02-20 17:56:03,535 common_fun.py[line:42] INFO go to personal center
+2021-02-20 17:56:03,926 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 17:56:04,843 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 17:56:08,566 common_fun.py[line:109] INFO get logout finished screenshot
+2021-02-20 17:56:09,429 common_fun.py[line:50] INFO logout finished
+2021-02-20 17:56:09,429 loginView.py[line:12] INFO ============login_action==============
+2021-02-20 17:56:09,429 loginView.py[line:13] INFO username is:19000032420
+2021-02-20 17:56:15,542 loginView.py[line:17] INFO password is:123456
+2021-02-20 17:56:21,377 loginView.py[line:20] INFO click loginBtn
+2021-02-20 17:56:22,076 loginView.py[line:23] INFO click chaiBtn
+2021-02-20 17:56:38,177 common_fun.py[line:58] INFO chai element is not found!
+2021-02-20 17:56:38,178 common_fun.py[line:109] INFO get login finished screenshot
+2021-02-20 17:56:43,599 loginView.py[line:26] INFO login finished
+2021-02-20 17:56:43,600 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 17:59:41,309 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 17:59:44,392 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 17:59:44,395 loginView.py[line:8] INFO ============check_chaiBtn==============
+2021-02-20 17:59:51,054 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 17:59:54,272 loginView.py[line:10] INFO ============check_Login==============
+2021-02-20 17:59:54,309 common_fun.py[line:41] INFO Already logged in
+2021-02-20 17:59:54,309 common_fun.py[line:42] INFO go to personal center
+2021-02-20 17:59:54,837 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 17:59:55,727 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 17:59:59,437 common_fun.py[line:49] INFO logout finished
+2021-02-20 17:59:59,437 loginView.py[line:12] INFO ============login_action==============
+2021-02-20 17:59:59,437 loginView.py[line:13] INFO username is:19000032420
+2021-02-20 18:00:05,970 loginView.py[line:17] INFO password is:123456
+2021-02-20 18:00:11,677 loginView.py[line:20] INFO click loginBtn
+2021-02-20 18:00:12,403 loginView.py[line:23] INFO click chaiBtn
+2021-02-20 18:00:16,380 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:00:19,514 common_fun.py[line:108] INFO get login finished screenshot
+2021-02-20 18:00:20,599 loginView.py[line:26] INFO login finished
+2021-02-20 18:00:20,599 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:00:36,679 report.py[line:45] INFO start run testcase...
+2021-02-20 18:00:36,680 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:00:39,640 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 18:00:39,642 loginView.py[line:8] INFO ============check_chaiBtn==============
+2021-02-20 18:00:46,173 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:00:49,397 loginView.py[line:10] INFO ============check_Login==============
+2021-02-20 18:00:49,553 common_fun.py[line:41] INFO Already logged in
+2021-02-20 18:00:49,553 common_fun.py[line:42] INFO go to personal center
+2021-02-20 18:00:51,024 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 18:00:52,219 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 18:00:56,092 common_fun.py[line:49] INFO logout finished
+2021-02-20 18:00:56,093 loginView.py[line:12] INFO ============login_action==============
+2021-02-20 18:00:56,093 loginView.py[line:13] INFO username is:19000032420
+2021-02-20 18:01:12,723 loginView.py[line:17] INFO password is:123456
+2021-02-20 18:01:18,835 loginView.py[line:20] INFO click loginBtn
+2021-02-20 18:01:19,748 loginView.py[line:23] INFO click chaiBtn
+2021-02-20 18:01:33,823 common_fun.py[line:57] INFO chai element is not found!
+2021-02-20 18:01:33,824 common_fun.py[line:108] INFO get login finished screenshot
+2021-02-20 18:01:38,991 loginView.py[line:26] INFO login finished
+2021-02-20 18:01:38,992 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:02:59,621 report.py[line:45] INFO start run testcase...
+2021-02-20 18:02:59,622 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:03:02,722 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 18:03:02,724 loginView.py[line:9] INFO ============check_chaiBtn==============
+2021-02-20 18:03:11,732 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:03:14,913 loginView.py[line:11] INFO ============check_Login==============
+2021-02-20 18:03:14,955 common_fun.py[line:41] INFO Already logged in
+2021-02-20 18:03:14,955 common_fun.py[line:42] INFO go to personal center
+2021-02-20 18:03:15,389 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 18:03:16,294 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 18:03:19,995 common_fun.py[line:49] INFO logout finished
+2021-02-20 18:03:19,995 loginView.py[line:13] INFO ============login_action==============
+2021-02-20 18:03:19,996 loginView.py[line:14] INFO username is:19000032420
+2021-02-20 18:03:29,715 loginView.py[line:18] INFO password is:123456
+2021-02-20 18:03:35,892 loginView.py[line:21] INFO click loginBtn
+2021-02-20 18:03:41,634 loginView.py[line:24] INFO click chaiBtn
+2021-02-20 18:03:50,495 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:03:53,839 common_fun.py[line:108] INFO get login finished screenshot
+2021-02-20 18:03:58,082 loginView.py[line:27] INFO login finished
+2021-02-20 18:03:58,083 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:04:05,844 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:04:18,846 test_mainprocess.py[line:9] INFO ==========test_addgoods_linshiguhang========
+2021-02-20 18:04:18,847 mainprocessView.py[line:14] INFO ============Check Paper============
+2021-02-20 18:04:36,995 common_fun.py[line:66] INFO outofPaper element is not found!
+2021-02-20 18:04:36,996 mainprocessView.py[line:17] INFO ============Click chaiBtn============
+2021-02-20 18:04:38,093 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:04:41,242 mainprocessView.py[line:19] INFO ============Go to goods Inventory ==============
+2021-02-20 18:04:41,849 mainprocessView.py[line:21] INFO ============Go to goods Management ==============
+2021-02-20 18:04:43,295 mainprocessView.py[line:23] INFO ============Click add new goods Btn ==============
+2021-02-20 18:04:45,338 mainprocessView.py[line:25] INFO ============Switch input method============
+2021-02-20 18:04:45,433 mainprocessView.py[line:27] INFO ============Enter product name ==============
+2021-02-20 18:04:51,324 mainprocessView.py[line:29] INFO ============Enter product specifications ==============
+2021-02-20 18:04:57,520 mainprocessView.py[line:31] INFO ============Enter the sales price ==============
+2021-02-20 18:05:04,162 mainprocessView.py[line:33] INFO ============Click save Btn==============
+2021-02-20 18:05:05,476 mainprocessView.py[line:35] INFO ============Add product finished!==============
+2021-02-20 18:05:05,477 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:05:13,736 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:05:24,912 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-20 18:05:24,913 cashierhomepageView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 18:05:54,695 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:05:57,953 cashierhomepageView.py[line:16] INFO ============Jump Code List Center============
+2021-02-20 18:05:58,831 cashierhomepageView.py[line:18] INFO ============Back to Homepage============
+2021-02-20 18:06:12,698 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:06:20,561 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:06:28,153 test_repayment.py[line:9] INFO ==========test_repayment_linshiguhang========
+2021-02-20 18:06:28,153 repaymentView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 18:06:35,582 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:06:38,720 repaymentView.py[line:16] INFO ============Choose batch ==============
+2021-02-20 18:06:39,066 repaymentView.py[line:18] INFO ============Choose Product ==============
+2021-02-20 18:06:40,288 repaymentView.py[line:20] INFO ============Choose quantity==============
+2021-02-20 18:06:45,142 repaymentView.py[line:22] INFO ============Input quantity==============
+2021-02-20 18:06:45,851 repaymentView.py[line:24] INFO ===========Determine===============
+2021-02-20 18:06:46,630 repaymentView.py[line:26] INFO ===========Show user===============
+2021-02-20 18:06:47,857 repaymentView.py[line:28] INFO ===========Select user===============
+2021-02-20 18:06:49,807 repaymentView.py[line:30] INFO ===========Sales Order===============
+2021-02-20 18:06:50,477 repaymentView.py[line:32] INFO ===========Whole bill===============
+2021-02-20 18:06:53,319 repaymentView.py[line:40] INFO ============Choose Product ==============
+2021-02-20 18:07:00,436 repaymentView.py[line:42] INFO ============Choose quantity==============
+2021-02-20 18:07:04,302 repaymentView.py[line:44] INFO ============Input quantity==============
+2021-02-20 18:07:06,782 repaymentView.py[line:46] INFO ===========Determine===============
+2021-02-20 18:07:08,069 repaymentView.py[line:48] INFO ===========Show user===============
+2021-02-20 18:07:13,373 repaymentView.py[line:50] INFO ===========Select user===============
+2021-02-20 18:07:19,451 repaymentView.py[line:52] INFO ===========Sales Order===============
+2021-02-20 18:07:20,166 repaymentView.py[line:54] INFO ============Input quantity==============
+2021-02-20 18:07:28,048 repaymentView.py[line:56] INFO ============Cash register==============
+2021-02-20 18:07:29,454 repaymentView.py[line:62] INFO ============Jump to Buyer Center============
+2021-02-20 18:07:37,197 repaymentView.py[line:64] INFO ============Click Order management============
+2021-02-20 18:07:48,746 repaymentView.py[line:66] INFO ============Choose Order============
+2021-02-20 18:07:54,352 repaymentView.py[line:68] INFO ============Click Repay============
+2021-02-20 18:08:05,666 repaymentView.py[line:70] INFO ============Click btnrepayOrder============
+2021-02-20 18:08:16,114 repaymentView.py[line:72] INFO ============Repay finished!============
+2021-02-20 18:08:16,115 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:08:28,260 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:08:31,720 test_codelistcenter.py[line:9] INFO ==========test_codelistcenter_linshiguhang========
+2021-02-20 18:08:31,720 codelistcenterView.py[line:8] INFO ============Click chaiBtn============
+2021-02-20 18:08:38,931 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:08:42,103 codelistcenterView.py[line:10] INFO ============Jump Code List Center============
+2021-02-20 18:08:42,398 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:11:02,841 report.py[line:45] INFO start run testcase...
+2021-02-20 18:11:02,842 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:11:05,943 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 18:11:05,946 loginView.py[line:9] INFO ============check_chaiBtn==============
+2021-02-20 18:12:49,425 report.py[line:45] INFO start run testcase...
+2021-02-20 18:12:49,426 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:12:52,347 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 18:12:52,350 loginView.py[line:9] INFO ============check_chaiBtn==============
+2021-02-20 18:12:59,143 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:13:02,315 loginView.py[line:11] INFO ============check_Login==============
+2021-02-20 18:13:02,436 common_fun.py[line:41] INFO Already logged in
+2021-02-20 18:13:02,437 common_fun.py[line:42] INFO go to personal center
+2021-02-20 18:13:02,901 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 18:13:03,831 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 18:13:07,538 common_fun.py[line:49] INFO logout finished
+2021-02-20 18:13:07,538 loginView.py[line:13] INFO ============login_action==============
+2021-02-20 18:13:07,538 loginView.py[line:14] INFO username is:19000032420
+2021-02-20 18:13:14,427 loginView.py[line:18] INFO password is:123456
+2021-02-20 18:13:19,773 loginView.py[line:21] INFO click loginBtn
+2021-02-20 18:13:26,463 loginView.py[line:24] INFO click chaiBtn
+2021-02-20 18:13:31,772 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:13:34,989 common_fun.py[line:108] INFO get login finished screenshot
+2021-02-20 18:13:39,869 loginView.py[line:27] INFO login finished
+2021-02-20 18:13:39,870 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:13:48,198 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:13:58,684 test_mainprocess.py[line:9] INFO ==========test_addgoods_linshiguhang========
+2021-02-20 18:13:58,685 mainprocessView.py[line:14] INFO ============Check Paper============
+2021-02-20 18:14:24,799 common_fun.py[line:66] INFO outofPaper element is not found!
+2021-02-20 18:14:24,800 mainprocessView.py[line:17] INFO ============Click chaiBtn============
+2021-02-20 18:14:26,286 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:14:29,764 mainprocessView.py[line:19] INFO ============Go to goods Inventory ==============
+2021-02-20 18:14:31,699 mainprocessView.py[line:21] INFO ============Go to goods Management ==============
+2021-02-20 18:14:33,550 mainprocessView.py[line:23] INFO ============Click add new goods Btn ==============
+2021-02-20 18:14:35,615 mainprocessView.py[line:25] INFO ============Switch input method============
+2021-02-20 18:14:35,694 mainprocessView.py[line:27] INFO ============Enter product name ==============
+2021-02-20 18:14:41,365 mainprocessView.py[line:29] INFO ============Enter product specifications ==============
+2021-02-20 18:14:47,058 mainprocessView.py[line:31] INFO ============Enter the sales price ==============
+2021-02-20 18:14:52,656 mainprocessView.py[line:33] INFO ============Click save Btn==============
+2021-02-20 18:14:53,618 mainprocessView.py[line:35] INFO ============Add product finished!==============
+2021-02-20 18:14:53,618 mainprocessView.py[line:42] INFO ============Switch inventory management==============
+2021-02-20 18:14:55,986 mainprocessView.py[line:44] INFO ============Click addbatch==============
+2021-02-20 18:14:59,333 mainprocessView.py[line:46] INFO ===========Click addshipper===============
+2021-02-20 18:15:01,787 mainprocessView.py[line:48] INFO ============Switch input method============
+2021-02-20 18:15:02,046 mainprocessView.py[line:50] INFO ===========Enter shipper===============
+2021-02-20 18:15:08,915 mainprocessView.py[line:52] INFO ============Click save Btn==============
+2021-02-20 18:15:09,921 mainprocessView.py[line:54] INFO ===========Next step===============
+2021-02-20 18:15:14,664 mainprocessView.py[line:56] INFO ===========Choose product===============
+2021-02-20 18:15:19,719 mainprocessView.py[line:58] INFO ===========Input quantity===============
+2021-02-20 18:15:31,112 mainprocessView.py[line:62] INFO ===========Determine===============
+2021-02-20 18:15:32,276 mainprocessView.py[line:64] INFO ===========Confirm storage===============
+2021-02-20 18:15:33,873 mainprocessView.py[line:72] INFO ============Go to Cashier Homepage ==============
+2021-02-20 18:15:38,252 mainprocessView.py[line:74] INFO ============Click chaiBtn============
+2021-02-20 18:15:39,712 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:15:42,946 mainprocessView.py[line:76] INFO ============Choose batch ==============
+2021-02-20 18:15:45,385 mainprocessView.py[line:78] INFO ============Choose Product ==============
+2021-02-20 18:15:47,314 mainprocessView.py[line:80] INFO ============Choose quantity==============
+2021-02-20 18:15:53,199 mainprocessView.py[line:82] INFO ============Input quantity==============
+2021-02-20 18:15:56,914 mainprocessView.py[line:84] INFO ===========Determine===============
+2021-02-20 18:15:59,313 mainprocessView.py[line:86] INFO ===========Confirm===============
+2021-02-20 18:16:09,531 common_fun.py[line:75] INFO confirmButton element is not found!
+2021-02-20 18:16:09,535 mainprocessView.py[line:88] INFO ===========Sales Order===============
+2021-02-20 18:16:10,410 mainprocessView.py[line:90] INFO ===========Cash register===============
+2021-02-20 18:16:15,840 mainprocessView.py[line:92] INFO ===========Sales Order finised!===============
+2021-02-20 18:16:15,841 mainprocessView.py[line:93] INFO ============Open code ==============
+2021-02-20 18:16:15,842 mainprocessView.py[line:94] INFO ============Choose Product ==============
+2021-02-20 18:16:19,601 mainprocessView.py[line:96] INFO ============Choose quantity==============
+2021-02-20 18:16:23,828 mainprocessView.py[line:98] INFO ============Input quantity==============
+2021-02-20 18:16:26,210 mainprocessView.py[line:100] INFO ===========Determine===============
+2021-02-20 18:16:27,188 mainprocessView.py[line:102] INFO ===========Confirm===============
+2021-02-20 18:16:37,241 common_fun.py[line:75] INFO confirmButton element is not found!
+2021-02-20 18:16:37,242 mainprocessView.py[line:104] INFO ============Click Open code==============
+2021-02-20 18:16:37,834 mainprocessView.py[line:106] INFO ===========Confirm===============
+2021-02-20 18:16:48,283 common_fun.py[line:75] INFO confirmButton element is not found!
+2021-02-20 18:16:48,283 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:16:54,528 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:16:57,558 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-20 18:16:57,558 cashierhomepageView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 18:17:14,814 common_fun.py[line:57] INFO chai element is not found!
+2021-02-20 18:17:14,815 cashierhomepageView.py[line:16] INFO ============Jump Code List Center============
+2021-02-20 18:17:25,286 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:17:35,121 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:17:49,188 test_repayment.py[line:9] INFO ==========test_repayment_linshiguhang========
+2021-02-20 18:17:49,190 repaymentView.py[line:14] INFO ============Click chaiBtn============
+2021-02-20 18:18:02,246 common_fun.py[line:57] INFO chai element is not found!
+2021-02-20 18:18:02,247 repaymentView.py[line:16] INFO ============Choose batch ==============
+2021-02-20 18:18:14,550 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:18:20,495 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:18:23,837 test_codelistcenter.py[line:9] INFO ==========test_codelistcenter_linshiguhang========
+2021-02-20 18:18:23,838 codelistcenterView.py[line:8] INFO ============Click chaiBtn============
+2021-02-20 18:18:30,544 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:18:33,705 codelistcenterView.py[line:10] INFO ============Jump Code List Center============
+2021-02-20 18:18:33,985 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:21:45,579 report.py[line:45] INFO start run testcase...
+2021-02-20 18:21:45,579 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:21:48,688 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 18:21:48,691 loginView.py[line:9] INFO ============check_chaiBtn==============
+2021-02-20 18:21:55,469 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:21:58,751 loginView.py[line:11] INFO ============check_Login==============
+2021-02-20 18:21:58,792 common_fun.py[line:41] INFO Already logged in
+2021-02-20 18:21:58,793 common_fun.py[line:42] INFO go to personal center
+2021-02-20 18:21:59,191 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 18:22:00,099 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 18:22:03,817 common_fun.py[line:49] INFO logout finished
+2021-02-20 18:22:03,817 loginView.py[line:13] INFO ============login_action==============
+2021-02-20 18:22:03,817 loginView.py[line:14] INFO username is:19000032420
+2021-02-20 18:22:10,288 loginView.py[line:18] INFO password is:123456
+2021-02-20 18:22:15,536 loginView.py[line:21] INFO click loginBtn
+2021-02-20 18:22:22,221 loginView.py[line:24] INFO click chaiBtn
+2021-02-20 18:22:25,972 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:22:29,302 common_fun.py[line:108] INFO get login finished screenshot
+2021-02-20 18:22:35,377 loginView.py[line:27] INFO login finished
+2021-02-20 18:22:35,378 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:22:44,678 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:22:59,701 test_mainprocess.py[line:9] INFO ==========test_addgoods_linshiguhang========
+2021-02-20 18:22:59,702 mainprocessView.py[line:14] INFO ============Check Paper============
+2021-02-20 18:23:19,854 common_fun.py[line:66] INFO outofPaper element is not found!
+2021-02-20 18:23:19,855 mainprocessView.py[line:17] INFO ============Click chaiBtn============
+2021-02-20 18:23:20,740 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:23:23,951 mainprocessView.py[line:19] INFO ============Go to goods Inventory ==============
+2021-02-20 18:23:24,519 mainprocessView.py[line:21] INFO ============Go to goods Management ==============
+2021-02-20 18:23:25,948 mainprocessView.py[line:23] INFO ============Click add new goods Btn ==============
+2021-02-20 18:23:28,147 mainprocessView.py[line:25] INFO ============Switch input method============
+2021-02-20 18:23:28,248 mainprocessView.py[line:27] INFO ============Enter product name ==============
+2021-02-20 18:23:37,461 mainprocessView.py[line:29] INFO ============Enter product specifications ==============
+2021-02-20 18:23:45,893 mainprocessView.py[line:31] INFO ============Enter the sales price ==============
+2021-02-20 18:23:54,077 mainprocessView.py[line:33] INFO ============Click save Btn==============
+2021-02-20 18:23:55,582 mainprocessView.py[line:35] INFO ============Add product finished!==============
+2021-02-20 18:23:55,584 mainprocessView.py[line:42] INFO ============Switch inventory management==============
+2021-02-20 18:24:05,252 mainprocessView.py[line:44] INFO ============Click addbatch==============
+2021-02-20 18:24:08,446 mainprocessView.py[line:46] INFO ===========Click addshipper===============
+2021-02-20 18:24:09,670 mainprocessView.py[line:48] INFO ============Switch input method============
+2021-02-20 18:24:09,964 mainprocessView.py[line:50] INFO ===========Enter shipper===============
+2021-02-20 18:24:17,603 mainprocessView.py[line:52] INFO ============Click save Btn==============
+2021-02-20 18:24:18,693 mainprocessView.py[line:54] INFO ===========Next step===============
+2021-02-20 18:24:23,732 mainprocessView.py[line:56] INFO ===========Choose product===============
+2021-02-20 18:24:29,907 mainprocessView.py[line:58] INFO ===========Input quantity===============
+2021-02-20 18:24:39,799 mainprocessView.py[line:62] INFO ===========Determine===============
+2021-02-20 18:24:40,809 mainprocessView.py[line:64] INFO ===========Confirm storage===============
+2021-02-20 18:24:45,759 mainprocessView.py[line:72] INFO ============Go to Cashier Homepage ==============
+2021-02-20 18:24:47,935 mainprocessView.py[line:74] INFO ============Click chaiBtn============
+2021-02-20 18:24:50,107 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:24:53,352 mainprocessView.py[line:76] INFO ============Choose batch ==============
+2021-02-20 18:24:56,028 mainprocessView.py[line:78] INFO ============Choose Product ==============
+2021-02-20 18:24:57,226 mainprocessView.py[line:80] INFO ============Choose quantity==============
+2021-02-20 18:25:02,854 mainprocessView.py[line:82] INFO ============Input quantity==============
+2021-02-20 18:25:07,832 mainprocessView.py[line:84] INFO ===========Determine===============
+2021-02-20 18:25:09,852 mainprocessView.py[line:86] INFO ===========Confirm===============
+2021-02-20 18:25:20,131 common_fun.py[line:75] INFO confirmButton element is not found!
+2021-02-20 18:25:20,132 mainprocessView.py[line:88] INFO ===========Sales Order===============
+2021-02-20 18:25:20,357 mainprocessView.py[line:90] INFO ===========Cash register===============
+2021-02-20 18:25:22,336 mainprocessView.py[line:92] INFO ===========Sales Order finised!===============
+2021-02-20 18:25:22,336 mainprocessView.py[line:93] INFO ============Open code ==============
+2021-02-20 18:25:22,337 mainprocessView.py[line:94] INFO ============Choose Product ==============
+2021-02-20 18:25:23,664 mainprocessView.py[line:96] INFO ============Choose quantity==============
+2021-02-20 18:25:27,622 mainprocessView.py[line:98] INFO ============Input quantity==============
+2021-02-20 18:25:28,212 mainprocessView.py[line:100] INFO ===========Determine===============
+2021-02-20 18:25:28,964 mainprocessView.py[line:102] INFO ===========Confirm===============
+2021-02-20 18:25:39,443 common_fun.py[line:75] INFO confirmButton element is not found!
+2021-02-20 18:25:39,443 mainprocessView.py[line:104] INFO ============Click Open code==============
+2021-02-20 18:25:39,825 mainprocessView.py[line:106] INFO ===========Confirm===============
+2021-02-20 18:25:50,184 common_fun.py[line:75] INFO confirmButton element is not found!
+2021-02-20 18:25:50,185 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:25:59,646 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:26:15,367 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-20 18:26:20,371 cashierhomepageView.py[line:16] INFO ============Click chaiBtn============
+2021-02-20 18:26:42,829 common_fun.py[line:57] INFO chai element is not found!
+2021-02-20 18:26:42,830 cashierhomepageView.py[line:18] INFO ============Jump Code List Center============
+2021-02-20 18:26:56,606 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:27:02,632 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:27:06,017 test_repayment.py[line:9] INFO ==========test_repayment_linshiguhang========
+2021-02-20 18:27:11,018 repaymentView.py[line:16] INFO ============Click chaiBtn============
+2021-02-20 18:27:12,863 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:27:16,034 repaymentView.py[line:18] INFO ============Choose batch ==============
+2021-02-20 18:27:16,495 repaymentView.py[line:20] INFO ============Choose Product ==============
+2021-02-20 18:27:17,627 repaymentView.py[line:22] INFO ============Choose quantity==============
+2021-02-20 18:27:22,896 repaymentView.py[line:24] INFO ============Input quantity==============
+2021-02-20 18:27:25,331 repaymentView.py[line:26] INFO ===========Determine===============
+2021-02-20 18:27:26,467 repaymentView.py[line:28] INFO ===========Show user===============
+2021-02-20 18:27:31,110 repaymentView.py[line:30] INFO ===========Select user===============
+2021-02-20 18:27:37,586 repaymentView.py[line:32] INFO ===========Sales Order===============
+2021-02-20 18:27:38,180 repaymentView.py[line:34] INFO ===========Whole bill===============
+2021-02-20 18:27:47,445 repaymentView.py[line:42] INFO ============Choose Product ==============
+2021-02-20 18:27:52,553 repaymentView.py[line:44] INFO ============Choose quantity==============
+2021-02-20 18:27:57,912 repaymentView.py[line:46] INFO ============Input quantity==============
+2021-02-20 18:28:00,538 repaymentView.py[line:48] INFO ===========Determine===============
+2021-02-20 18:28:01,862 repaymentView.py[line:50] INFO ===========Show user===============
+2021-02-20 18:28:06,122 repaymentView.py[line:52] INFO ===========Select user===============
+2021-02-20 18:28:09,229 repaymentView.py[line:54] INFO ===========Sales Order===============
+2021-02-20 18:28:10,199 repaymentView.py[line:56] INFO ============Input quantity==============
+2021-02-20 18:28:17,638 repaymentView.py[line:58] INFO ============Cash register==============
+2021-02-20 18:28:19,273 repaymentView.py[line:64] INFO ============Jump to Buyer Center============
+2021-02-20 18:28:24,144 repaymentView.py[line:66] INFO ============Click Order management============
+2021-02-20 18:28:31,921 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:28:44,220 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:28:55,194 test_codelistcenter.py[line:9] INFO ==========test_codelistcenter_linshiguhang========
+2021-02-20 18:28:55,195 codelistcenterView.py[line:8] INFO ============Click chaiBtn============
+2021-02-20 18:29:04,970 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:29:08,118 codelistcenterView.py[line:10] INFO ============Jump Code List Center============
+2021-02-20 18:29:08,388 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:31:00,527 report.py[line:45] INFO start run testcase...
+2021-02-20 18:31:00,528 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:31:03,526 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 18:31:03,529 loginView.py[line:9] INFO ============check_chaiBtn==============
+2021-02-20 18:31:09,944 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:31:13,262 loginView.py[line:11] INFO ============check_Login==============
+2021-02-20 18:31:13,318 common_fun.py[line:41] INFO Already logged in
+2021-02-20 18:31:13,318 common_fun.py[line:42] INFO go to personal center
+2021-02-20 18:31:13,780 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 18:31:14,693 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 18:31:18,401 common_fun.py[line:49] INFO logout finished
+2021-02-20 18:31:18,402 loginView.py[line:13] INFO ============login_action==============
+2021-02-20 18:31:18,402 loginView.py[line:14] INFO username is:19000032420
+2021-02-20 18:31:25,126 loginView.py[line:18] INFO password is:123456
+2021-02-20 18:31:30,933 loginView.py[line:21] INFO click loginBtn
+2021-02-20 18:31:37,738 loginView.py[line:24] INFO click chaiBtn
+2021-02-20 18:31:46,332 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:31:49,709 common_fun.py[line:108] INFO get login finished screenshot
+2021-02-20 18:31:54,316 loginView.py[line:27] INFO login finished
+2021-02-20 18:31:54,317 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:32:02,336 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:32:13,684 test_mainprocess.py[line:9] INFO ==========test_addgoods_linshiguhang========
+2021-02-20 18:32:13,685 mainprocessView.py[line:14] INFO ============Check Paper============
+2021-02-20 18:32:35,736 common_fun.py[line:66] INFO outofPaper element is not found!
+2021-02-20 18:32:35,737 mainprocessView.py[line:17] INFO ============Click chaiBtn============
+2021-02-20 18:32:38,556 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:32:42,069 mainprocessView.py[line:19] INFO ============Go to goods Inventory ==============
+2021-02-20 18:32:42,589 mainprocessView.py[line:21] INFO ============Go to goods Management ==============
+2021-02-20 18:32:44,020 mainprocessView.py[line:23] INFO ============Click add new goods Btn ==============
+2021-02-20 18:32:46,075 mainprocessView.py[line:25] INFO ============Switch input method============
+2021-02-20 18:32:46,204 mainprocessView.py[line:27] INFO ============Enter product name ==============
+2021-02-20 18:32:52,015 mainprocessView.py[line:29] INFO ============Enter product specifications ==============
+2021-02-20 18:32:58,181 mainprocessView.py[line:31] INFO ============Enter the sales price ==============
+2021-02-20 18:33:04,726 mainprocessView.py[line:33] INFO ============Click save Btn==============
+2021-02-20 18:33:05,949 mainprocessView.py[line:35] INFO ============Add product finished!==============
+2021-02-20 18:33:05,950 mainprocessView.py[line:42] INFO ============Switch inventory management==============
+2021-02-20 18:33:12,061 mainprocessView.py[line:44] INFO ============Click addbatch==============
+2021-02-20 18:33:13,345 mainprocessView.py[line:46] INFO ===========Click addshipper===============
+2021-02-20 18:33:15,588 mainprocessView.py[line:48] INFO ============Switch input method============
+2021-02-20 18:33:15,941 mainprocessView.py[line:50] INFO ===========Enter shipper===============
+2021-02-20 18:33:23,108 mainprocessView.py[line:52] INFO ============Click save Btn==============
+2021-02-20 18:33:24,114 mainprocessView.py[line:54] INFO ===========Next step===============
+2021-02-20 18:33:28,767 mainprocessView.py[line:56] INFO ===========Choose product===============
+2021-02-20 18:33:34,606 mainprocessView.py[line:58] INFO ===========Input quantity===============
+2021-02-20 18:33:49,380 mainprocessView.py[line:62] INFO ===========Determine===============
+2021-02-20 18:33:50,592 mainprocessView.py[line:64] INFO ===========Confirm storage===============
+2021-02-20 18:33:55,661 mainprocessView.py[line:72] INFO ============Go to Cashier Homepage ==============
+2021-02-20 18:33:57,558 mainprocessView.py[line:74] INFO ============Click chaiBtn============
+2021-02-20 18:33:59,529 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:34:02,797 mainprocessView.py[line:76] INFO ============Choose batch ==============
+2021-02-20 18:34:04,641 mainprocessView.py[line:78] INFO ============Choose Product ==============
+2021-02-20 18:34:06,444 mainprocessView.py[line:80] INFO ============Choose quantity==============
+2021-02-20 18:34:11,942 mainprocessView.py[line:82] INFO ============Input quantity==============
+2021-02-20 18:34:16,973 mainprocessView.py[line:84] INFO ===========Determine===============
+2021-02-20 18:34:19,160 mainprocessView.py[line:88] INFO ===========Sales Order===============
+2021-02-20 18:34:20,450 mainprocessView.py[line:90] INFO ===========Cash register===============
+2021-02-20 18:34:25,958 mainprocessView.py[line:92] INFO ===========Sales Order finised!===============
+2021-02-20 18:34:25,959 mainprocessView.py[line:93] INFO ============Open code ==============
+2021-02-20 18:34:25,960 mainprocessView.py[line:94] INFO ============Choose Product ==============
+2021-02-20 18:34:30,259 mainprocessView.py[line:96] INFO ============Choose quantity==============
+2021-02-20 18:34:34,297 mainprocessView.py[line:98] INFO ============Input quantity==============
+2021-02-20 18:34:36,687 mainprocessView.py[line:100] INFO ===========Determine===============
+2021-02-20 18:34:37,919 mainprocessView.py[line:104] INFO ============Click Open code==============
+2021-02-20 18:34:39,534 mainprocessView.py[line:106] INFO ===========Confirm===============
+2021-02-20 18:34:50,590 common_fun.py[line:75] INFO confirmButton element is not found!
+2021-02-20 18:34:50,592 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:35:02,328 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:35:15,558 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-20 18:35:25,558 cashierhomepageView.py[line:16] INFO ============Click chaiBtn============
+2021-02-20 18:35:25,615 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:35:28,777 cashierhomepageView.py[line:18] INFO ============Jump Code List Center============
+2021-02-20 18:35:29,030 cashierhomepageView.py[line:21] INFO ============Back to Homepage============
+2021-02-20 18:35:32,652 cashierhomepageView.py[line:23] INFO ============Add Customer============
+2021-02-20 18:35:33,725 cashierhomepageView.py[line:25] INFO ============Enter Customer Name============
+2021-02-20 18:35:39,327 cashierhomepageView.py[line:27] INFO ============Enter Customer Phone============
+2021-02-20 18:35:44,743 cashierhomepageView.py[line:29] INFO ============Enter Customer CarNO============
+2021-02-20 18:35:50,115 cashierhomepageView.py[line:31] INFO ============Saved============
+2021-02-20 18:35:53,783 cashierhomepageView.py[line:33] INFO ============Mysql verification============
+2021-02-20 18:35:53,967 mysqlverification.py[line:10] INFO 新增客户输入展示的新增客户名字为：蔡龙161
+2021-02-20 18:36:26,935 mysqlverification.py[line:17] INFO 数据库查询的结果为：新增客户姓名：蔡龙161，新增客户电话：13584822974，新增客户车牌号：群马AE86，在收银新增页面新增
+2021-02-20 18:36:26,936 mysqlverification.py[line:20] INFO 新增客户断言成功
+2021-02-20 18:36:26,965 cashierhomepageView.py[line:35] INFO ============Choose batch ==============
+2021-02-20 18:36:28,942 cashierhomepageView.py[line:37] INFO ============Choose Custom packaging Product ==============
+2021-02-20 18:36:30,503 cashierhomepageView.py[line:39] INFO ============Choose quantity==============
+2021-02-20 18:36:36,124 cashierhomepageView.py[line:41] INFO ============Input quantity==============
+2021-02-20 18:36:39,793 cashierhomepageView.py[line:43] INFO ===========Determine===============
+2021-02-20 18:36:41,753 cashierhomepageView.py[line:69] INFO ===========Add Remark===============
+2021-02-20 18:36:43,526 cashierhomepageView.py[line:71] INFO ===========Enter Remark===============
+2021-02-20 18:36:50,878 cashierhomepageView.py[line:73] INFO ===========Saved===============
+2021-02-20 18:36:54,698 cashierhomepageView.py[line:75] INFO ===========Add Additional fee===============
+2021-02-20 18:36:56,119 cashierhomepageView.py[line:77] INFO ===========Enter the amount ===============
+2021-02-20 18:37:02,017 cashierhomepageView.py[line:79] INFO ===========Saved===============
+2021-02-20 18:37:03,805 cashierhomepageView.py[line:81] INFO ===========Sales Order===============
+2021-02-20 18:37:04,732 cashierhomepageView.py[line:83] INFO ===========Cash register===============
+2021-02-20 18:37:10,166 cashierhomepageView.py[line:85] INFO ============New customers============
+2021-02-20 18:37:15,897 cashierhomepageView.py[line:89] INFO ============Delete customers============
+2021-02-20 18:37:20,191 cashierhomepageView.py[line:93] INFO ============Choose batch ==============
+2021-02-20 18:37:21,399 cashierhomepageView.py[line:95] INFO ============Choose Custom packaging Product ==============
+2021-02-20 18:37:22,481 cashierhomepageView.py[line:97] INFO ============Choose quantity==============
+2021-02-20 18:37:26,457 cashierhomepageView.py[line:99] INFO ============Input quantity==============
+2021-02-20 18:37:27,176 cashierhomepageView.py[line:101] INFO ===========Determine===============
+2021-02-20 18:37:28,014 cashierhomepageView.py[line:103] INFO ============New customers============
+2021-02-20 18:37:28,970 cashierhomepageView.py[line:105] INFO ============Delete First customer============
+2021-02-20 18:37:30,054 cashierhomepageView.py[line:107] INFO ============Confirm Button============
+2021-02-20 18:37:33,746 cashierhomepageView.py[line:109] INFO ============Click on the previous order============
+2021-02-20 18:37:34,211 cashierhomepageView.py[line:111] INFO ===========Turn off the weighbridge===============
+2021-02-20 18:37:34,934 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:37:41,341 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:37:47,573 test_repayment.py[line:9] INFO ==========test_repayment_linshiguhang========
+2021-02-20 18:37:52,574 repaymentView.py[line:16] INFO ============Click chaiBtn============
+2021-02-20 18:38:05,656 common_fun.py[line:57] INFO chai element is not found!
+2021-02-20 18:38:05,657 repaymentView.py[line:18] INFO ============Choose batch ==============
+2021-02-20 18:38:20,303 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:38:30,920 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:38:45,882 test_codelistcenter.py[line:9] INFO ==========test_codelistcenter_linshiguhang========
+2021-02-20 18:38:45,883 codelistcenterView.py[line:8] INFO ============Click chaiBtn============
+2021-02-20 18:38:55,585 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:38:58,753 codelistcenterView.py[line:10] INFO ============Jump Code List Center============
+2021-02-20 18:38:58,989 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:43:52,976 report.py[line:45] INFO start run testcase...
+2021-02-20 18:43:52,977 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:43:56,339 test_login.py[line:12] INFO ==========test_login_linshiguhang========
+2021-02-20 18:43:56,342 loginView.py[line:9] INFO ============check_chaiBtn==============
+2021-02-20 18:44:04,420 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:44:07,577 loginView.py[line:11] INFO ============check_Login==============
+2021-02-20 18:44:07,648 common_fun.py[line:41] INFO Already logged in
+2021-02-20 18:44:07,649 common_fun.py[line:42] INFO go to personal center
+2021-02-20 18:44:08,397 common_fun.py[line:45] INFO click logoutBtn
+2021-02-20 18:44:09,335 common_fun.py[line:47] INFO click confirmBtn
+2021-02-20 18:44:13,032 common_fun.py[line:49] INFO logout finished
+2021-02-20 18:44:13,033 loginView.py[line:13] INFO ============login_action==============
+2021-02-20 18:44:13,034 loginView.py[line:14] INFO username is:19000032420
+2021-02-20 18:44:24,652 loginView.py[line:18] INFO password is:123456
+2021-02-20 18:44:31,318 loginView.py[line:21] INFO click loginBtn
+2021-02-20 18:44:38,033 loginView.py[line:24] INFO click chaiBtn
+2021-02-20 18:44:48,797 common_fun.py[line:57] INFO chai element is not found!
+2021-02-20 18:44:48,798 common_fun.py[line:108] INFO get login finished screenshot
+2021-02-20 18:45:01,216 loginView.py[line:27] INFO login finished
+2021-02-20 18:45:01,217 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:45:15,018 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:45:34,462 test_mainprocess.py[line:9] INFO ==========test_addgoods_linshiguhang========
+2021-02-20 18:45:34,462 mainprocessView.py[line:14] INFO ============Check Paper============
+2021-02-20 18:45:44,842 common_fun.py[line:66] INFO outofPaper element is not found!
+2021-02-20 18:45:44,842 mainprocessView.py[line:17] INFO ============Click chaiBtn============
+2021-02-20 18:45:44,896 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:45:48,107 mainprocessView.py[line:19] INFO ============Go to goods Inventory ==============
+2021-02-20 18:45:49,875 mainprocessView.py[line:21] INFO ============Go to goods Management ==============
+2021-02-20 18:45:57,260 mainprocessView.py[line:23] INFO ============Click add new goods Btn ==============
+2021-02-20 18:46:02,920 mainprocessView.py[line:25] INFO ============Switch input method============
+2021-02-20 18:46:03,926 mainprocessView.py[line:27] INFO ============Enter product name ==============
+2021-02-20 18:46:22,104 mainprocessView.py[line:29] INFO ============Enter product specifications ==============
+2021-02-20 18:46:34,554 mainprocessView.py[line:31] INFO ============Enter the sales price ==============
+2021-02-20 18:46:44,069 mainprocessView.py[line:33] INFO ============Click save Btn==============
+2021-02-20 18:46:45,550 mainprocessView.py[line:35] INFO ============Add product finished!==============
+2021-02-20 18:46:45,551 mainprocessView.py[line:42] INFO ============Switch inventory management==============
+2021-02-20 18:46:52,297 mainprocessView.py[line:44] INFO ============Click addbatch==============
+2021-02-20 18:46:56,003 mainprocessView.py[line:46] INFO ===========Click addshipper===============
+2021-02-20 18:46:58,272 mainprocessView.py[line:48] INFO ============Switch input method============
+2021-02-20 18:46:58,711 mainprocessView.py[line:50] INFO ===========Enter shipper===============
+2021-02-20 18:47:05,539 mainprocessView.py[line:52] INFO ============Click save Btn==============
+2021-02-20 18:47:06,493 mainprocessView.py[line:54] INFO ===========Next step===============
+2021-02-20 18:47:12,603 mainprocessView.py[line:56] INFO ===========Choose product===============
+2021-02-20 18:47:18,847 mainprocessView.py[line:58] INFO ===========Input quantity===============
+2021-02-20 18:47:52,050 mainprocessView.py[line:62] INFO ===========Determine===============
+2021-02-20 18:47:55,369 mainprocessView.py[line:64] INFO ===========Confirm storage===============
+2021-02-20 18:47:59,519 mainprocessView.py[line:72] INFO ============Go to Cashier Homepage ==============
+2021-02-20 18:48:08,484 mainprocessView.py[line:74] INFO ============Click chaiBtn============
+2021-02-20 18:48:11,196 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:48:14,971 mainprocessView.py[line:76] INFO ============Choose batch ==============
+2021-02-20 18:48:20,819 mainprocessView.py[line:78] INFO ============Choose Product ==============
+2021-02-20 18:48:28,949 mainprocessView.py[line:80] INFO ============Choose quantity==============
+2021-02-20 18:48:35,172 mainprocessView.py[line:82] INFO ============Input quantity==============
+2021-02-20 18:48:35,870 mainprocessView.py[line:84] INFO ===========Determine===============
+2021-02-20 18:48:36,664 mainprocessView.py[line:88] INFO ===========Sales Order===============
+2021-02-20 18:48:37,790 mainprocessView.py[line:90] INFO ===========Cash register===============
+2021-02-20 18:48:39,745 mainprocessView.py[line:92] INFO ===========Sales Order finised!===============
+2021-02-20 18:48:39,745 mainprocessView.py[line:93] INFO ============Open code ==============
+2021-02-20 18:48:39,745 mainprocessView.py[line:94] INFO ============Choose Product ==============
+2021-02-20 18:48:41,112 mainprocessView.py[line:96] INFO ============Choose quantity==============
+2021-02-20 18:48:45,603 mainprocessView.py[line:98] INFO ============Input quantity==============
+2021-02-20 18:48:46,263 mainprocessView.py[line:100] INFO ===========Determine===============
+2021-02-20 18:48:47,084 mainprocessView.py[line:104] INFO ============Click Open code==============
+2021-02-20 18:48:48,044 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:49:04,084 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:49:29,003 test_cashierhomepage.py[line:9] INFO ==========test_cashierhomepage_linshiguhang========
+2021-02-20 18:49:39,004 cashierhomepageView.py[line:16] INFO ============Click chaiBtn============
+2021-02-20 18:49:52,938 common_fun.py[line:57] INFO chai element is not found!
+2021-02-20 18:49:52,939 cashierhomepageView.py[line:18] INFO ============Jump Code List Center============
+2021-02-20 18:50:02,244 cashierhomepageView.py[line:21] INFO ============Back to Homepage============
+2021-02-20 18:50:06,095 cashierhomepageView.py[line:23] INFO ============Add Customer============
+2021-02-20 18:50:07,286 cashierhomepageView.py[line:25] INFO ============Enter Customer Name============
+2021-02-20 18:50:14,028 cashierhomepageView.py[line:27] INFO ============Enter Customer Phone============
+2021-02-20 18:50:22,525 cashierhomepageView.py[line:29] INFO ============Enter Customer CarNO============
+2021-02-20 18:50:32,059 cashierhomepageView.py[line:31] INFO ============Saved============
+2021-02-20 18:50:33,666 cashierhomepageView.py[line:33] INFO ============Mysql verification============
+2021-02-20 18:50:35,916 mysqlverification.py[line:10] INFO 新增客户输入展示的新增客户名字为：李亮270
+2021-02-20 18:51:17,052 mysqlverification.py[line:17] INFO 数据库查询的结果为：新增客户姓名：李亮270，新增客户电话：15104002222，新增客户车牌号：群马AE86，在收银新增页面新增
+2021-02-20 18:51:17,054 mysqlverification.py[line:20] INFO 新增客户断言成功
+2021-02-20 18:51:17,067 cashierhomepageView.py[line:35] INFO ============Choose batch ==============
+2021-02-20 18:51:17,767 cashierhomepageView.py[line:37] INFO ============Choose Custom packaging Product ==============
+2021-02-20 18:51:19,095 cashierhomepageView.py[line:39] INFO ============Choose quantity==============
+2021-02-20 18:51:24,279 cashierhomepageView.py[line:41] INFO ============Input quantity==============
+2021-02-20 18:51:25,147 cashierhomepageView.py[line:43] INFO ===========Determine===============
+2021-02-20 18:51:26,015 cashierhomepageView.py[line:69] INFO ===========Add Remark===============
+2021-02-20 18:51:27,400 cashierhomepageView.py[line:71] INFO ===========Enter Remark===============
+2021-02-20 18:51:35,411 cashierhomepageView.py[line:73] INFO ===========Saved===============
+2021-02-20 18:51:39,529 cashierhomepageView.py[line:75] INFO ===========Add Additional fee===============
+2021-02-20 18:51:41,216 cashierhomepageView.py[line:77] INFO ===========Enter the amount ===============
+2021-02-20 18:51:46,611 cashierhomepageView.py[line:79] INFO ===========Saved===============
+2021-02-20 18:51:48,665 cashierhomepageView.py[line:81] INFO ===========Sales Order===============
+2021-02-20 18:51:49,369 cashierhomepageView.py[line:83] INFO ===========Cash register===============
+2021-02-20 18:51:56,470 cashierhomepageView.py[line:85] INFO ============New customers============
+2021-02-20 18:52:02,703 cashierhomepageView.py[line:89] INFO ============Delete customers============
+2021-02-20 18:52:14,436 cashierhomepageView.py[line:93] INFO ============Choose batch ==============
+2021-02-20 18:52:19,867 cashierhomepageView.py[line:95] INFO ============Choose Custom packaging Product ==============
+2021-02-20 18:52:25,600 cashierhomepageView.py[line:97] INFO ============Choose quantity==============
+2021-02-20 18:52:32,463 cashierhomepageView.py[line:99] INFO ============Input quantity==============
+2021-02-20 18:52:37,887 cashierhomepageView.py[line:101] INFO ===========Determine===============
+2021-02-20 18:52:39,315 cashierhomepageView.py[line:103] INFO ============New customers============
+2021-02-20 18:52:41,976 cashierhomepageView.py[line:105] INFO ============Delete First customer============
+2021-02-20 18:52:44,173 cashierhomepageView.py[line:107] INFO ============Confirm Button============
+2021-02-20 18:52:46,681 cashierhomepageView.py[line:109] INFO ============Click on the previous order============
+2021-02-20 18:52:48,871 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:53:00,632 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:53:18,439 test_repayment.py[line:9] INFO ==========test_repayment_linshiguhang========
+2021-02-20 18:53:28,440 repaymentView.py[line:16] INFO ============Click chaiBtn============
+2021-02-20 18:53:30,143 common_fun.py[line:59] INFO click cancelBtn
+2021-02-20 18:53:33,304 repaymentView.py[line:18] INFO ============Choose batch ==============
+2021-02-20 18:53:33,866 repaymentView.py[line:20] INFO ============Choose Product ==============
+2021-02-20 18:53:34,864 repaymentView.py[line:22] INFO ============Choose quantity==============
+2021-02-20 18:53:39,664 repaymentView.py[line:24] INFO ============Input quantity==============
+2021-02-20 18:53:40,454 repaymentView.py[line:26] INFO ===========Determine===============
+2021-02-20 18:53:41,265 repaymentView.py[line:28] INFO ===========Show user===============
+2021-02-20 18:53:43,408 repaymentView.py[line:30] INFO ===========Select user===============
+2021-02-20 18:53:50,429 repaymentView.py[line:32] INFO ===========Sales Order===============
+2021-02-20 18:53:51,240 repaymentView.py[line:34] INFO ===========Whole bill===============
+2021-02-20 18:53:57,284 repaymentView.py[line:42] INFO ============Choose Product ==============
+2021-02-20 18:54:02,322 repaymentView.py[line:44] INFO ============Choose quantity==============
+2021-02-20 18:54:06,649 repaymentView.py[line:46] INFO ============Input quantity==============
+2021-02-20 18:54:08,787 repaymentView.py[line:48] INFO ===========Determine===============
+2021-02-20 18:54:10,164 repaymentView.py[line:50] INFO ===========Show user===============
+2021-02-20 18:54:13,001 repaymentView.py[line:52] INFO ===========Select user===============
+2021-02-20 18:54:18,207 repaymentView.py[line:54] INFO ===========Sales Order===============
+2021-02-20 18:54:18,961 repaymentView.py[line:56] INFO ============Input quantity==============
+2021-02-20 18:54:25,756 repaymentView.py[line:58] INFO ============Cash register==============
+2021-02-20 18:54:26,663 repaymentView.py[line:64] INFO ============Jump to Buyer Center============
+2021-02-20 18:54:30,571 repaymentView.py[line:67] INFO ============Click Order management============
+2021-02-20 18:54:40,580 repaymentView.py[line:69] INFO ============Choose Order============
+2021-02-20 18:54:46,043 repaymentView.py[line:71] INFO ============Click Repay============
+2021-02-20 18:54:53,348 repaymentView.py[line:73] INFO ============Click btnrepayOrder============
+2021-02-20 18:54:56,147 repaymentView.py[line:75] INFO ============Repay finished!============
+2021-02-20 18:54:56,148 myunit.py[line:14] INFO ======tearDown=====
+2021-02-20 18:55:06,736 myunit.py[line:9] INFO ======setUp=========
+2021-02-20 18:55:21,589 test_codelistcenter.py[line:9] INFO ==========test_codelistcenter_linshiguhang========
+2021-02-20 18:55:21,590 codelistcenterView.py[line:8] INFO ============Click chaiBtn============
+2021-02-20 18:55:34,525 common_fun.py[line:57] INFO chai element is not found!
+2021-02-20 18:55:34,526 codelistcenterView.py[line:10] INFO ============Jump Code List Center============
+2021-02-20 18:55:39,996 myunit.py[line:14] INFO ======tearDown=====

@@ -1,0 +1,14 @@
+platformName: Android
+platformVersion: 5.1.1
+automationName: Uiautomator2
+deviceName: V1938T
+appname: caixm_v4.4.6Build6842_2020-10-23_vegetable_env_prepRelease.apk
+#appname: caixm_v4.4.4Build6740_2020-09-28_vegetable_env_portalRelease.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+appPackage: com.zhiyi.cxm.caixm_prep
+#appPackage: com.zhiyi.cxm.caixm
+appActivity: com.caixm.app_2p_stall.activity.MainActivity
+ip: 127.0.0.1
+port: 4723
