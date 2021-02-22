@@ -1,1 +1,1 @@
-print("Hello world%%ii")
+print("Hello world")
